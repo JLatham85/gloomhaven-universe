@@ -69,20 +69,90 @@ Mobile Wireframes <!--Create link to wireframe-->
 
 Tablet Wireframes <!--Create link to wireframe-->
 
-Laptop Wirframes <!--Create link to wireframe-->
+Laptop Wireframes <!--Create link to wireframe-->
 
 Desktop Wireframes <!--Create link to wireframe-->
 
 ## Design Choices
 
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+
 #### **Typography**
+
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+</details>
 
 #### **Color Scheme** <!--Use a contrast site as well and mention this-->
 
 <!--CSS Name - Color in css thats pre-determined-->
 <!--Comment - Where is this predetermined color for-->
 
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+
 | CSS Name | HEX | RGB | Comment |
 |----------|:---:|:---:|---------|
 |Example 1 | Ex1 | Ex 1| Example 1 | 
+
+</details>
+
+#### **Images** <!--Insert any tools used to generate images and add which programme we used to render-->
+
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+
+</details>
+
+#### **Responsiveness**
+
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+
+</details>
+
+</details> <!--Insert before this details to include in Design choices-->
+
+<!--Add back to top link for design choices-->
+
+## Features <!--Add features as we go on with coding written-->
+
+#### **Existing Features** <!--Add features as we go on with coding evidenced-->
+
++ Header
+
++ <!--Add additional when balsamiq design is done-->
+
++ Footer
+
++ 404Page
+
+<!--Add back to top link for design choices-->
+
+## **Future Improvements** <!--Add targets once website complete-->
+
+## **Technologies Used** 
+
+#### **Languages**
++ HTML5 <!--Link to description-->
++ CSS <!--Link to description-->
+
+#### **Libraries and Framework** <!--List below is genric add/ remove where necessary-->
+
++ Bootstrap
++ Font Awesone
++ Google Fonts
++ Favicon
+
+#### **Tools** <!--List below is genric add/ remove where necessary-->
+
++ VS Code
++ GitHub
++ GitPod
++ Balsamiq
++ W3C HTML Validation
++ W3C CSS Validation
+
+
 
