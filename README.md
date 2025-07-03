@@ -154,5 +154,78 @@ Desktop Wireframes <!--Create link to wireframe-->
 + W3C HTML Validation
 + W3C CSS Validation
 
+## **Testing** <!--Brief description of how, whagt & why was tested-->
 
 
+### **Bugs** <!--Any bugs found status and if fixed in a table array-->
+
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+
+| Bug Found | Progress | Description of Bug | If resolved how |
+|-----------|----------|--------------------|-----------------|
+|Example 1  | Ex1      | Ex 1               | Example 1       | 
+
+</details>
+
+### **Responsiness Tests**
+
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+
+<!--Couple of paragraphs on what test where ran how, where, why. Also table array for checklist-->
+
+| Screen Size Class | Screen Device | Navigation | Element Alignments | Content Placement | Functionality | Bugs (if any explain how fixed) |
+|-------------------|---------------|------------|--------------------|-------------------|--------------|----------------------------------|
+|Example1           | Ex1           | Ex 1       | Example1           |Example1           | Example1      | Example1                         |
+
+</details>
+
+### **Code Validation**
+
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+
+#### HTML:
+<!--Brief description of validators used, what was tested i.e. page amount, how many errors. Also Pic example-->
+
+#### CSS:
+
+<!--Brief description of validators used, what was tested i.e. page amount, how many errors. Also Pic example-->
+
+</details>
+
+## **User Stories** <!--If possible downlod project board from Github if not link to github projects and then additional link as evidence to user story-->
+
+## **Feature Testing** <!--How, what, why & result description - potentially creat checklist in excel or table here of features and testing results-->
+
+## **Accessibility Testing** 
+
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+
+### **Wave Tool** <!--Use wave tool to test and how, what, where, why & result if errors-->
+
+### **Color Contrast** <!--Use Color contrast accessibility tester. How, what, where, why & result if errors-->
+
+</details>
+
+## **Lighthouse Testing** <!--How, what, why & result description - potentially download errors page convert to excel list How, what, where, why & result if errors-->
+
+## **Browser Testing** <!--Search top browsers and test website on all, give descriptions and examples-->
+
+## **Deployment** <!--Describe how you deployed (if relevant also forked & cloned) through GitHub-->
+
+## **Credits** 
+
++ Supported from:
+    + Simen Daehlin
+
++ Coding Assistance and inspiration:
+    + Example
+
++ Visual Content:
+    + Example
+
++ Images: 
+    + Example
