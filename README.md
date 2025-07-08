@@ -68,6 +68,15 @@ Visitors will have an option to join live sessions, provide feedback for site de
 </details>
 
 ## User Goals<!--Add what I believe the user goals are-->
++ Learn about the Role Playing Game (RPG's) Gloomhaven
++ Learn about the Universe of Gloomhaven
++ Learn How to Play Gloomhaven
++ Play Gloomhaven 
++ Ease of Navigation
++ Clear instructions in English (potentially other languages)
++ Book/ register for learning session
++ Book/ arrange meetups to play physical boardgame(s)
+
 
 ## User Stories<!--If possible downlod project board from Github if not link to github projects and then additional link as evidence to user story-->
 
