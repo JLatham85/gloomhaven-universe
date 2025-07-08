@@ -17,37 +17,37 @@ Visitors will have an option to join live sessions, provide feedback for site de
 <details>
     <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
-+ User Goals 
-+ User Stories
++ [User Goals](#user-goals) 
++ [User Stories](#user-stories)
     + User Story 1
     + User Story 2 
     + User Story 3
     + User Story 4
     + <!-- Add additional User Storys as & when needed-->
-+ Website Goals & Objectives
-+ Target Audience
-+ Wireframes
++ [Website Goals & Objectives](#website-goals-and-objective)
++ [Target Audience](#target-audience)
++ [Wireframes](#wire-frames)
     + Mobile Wireframes
     + Tablet Wireframes
     + Laptop Wireframes
     + Desktop Wireframes
-+ Design Choices
++ [Design Choices](#design-choices)
     + Typography
     + Color Scheme
     + Images
     + Responsiveness
-+ Features - <!--Review and complete this section when wireframes completed-->
++ [Features](#features)<!--Review and complete this section when wireframes completed-->
     + Existing Features
         + Header
         + Footer
         + 404 HTML Error Page
         + 404 Under Construction
-+ Future Improvements
-+ Technologies Used
++ [Future Improvements](#future-improvements)
++ [Technologies Used](#technologies-used)
     + Languages
     + Libraries & Framework
     + Tools
-+ Testing
++ [Testing](#testing)
     + Bugs Fixed
     + Responsiveness Tests
     + Code Validation
@@ -57,7 +57,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
     + Accessibility Testing
     + Lighthouse Testing
     + Browser Testing
-+ Deployment
++ [Deployment](#deployment)
     + To deploy the project
     + To fork the project
     + To clone the project
@@ -67,9 +67,9 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details>
 
-## User Goals <!--Add what I believe the user goals are-->
+## User Goals<!--Add what I believe the user goals are-->
 
-## User Stories <!--If possible downlod project board from Github if not link to github projects and then additional link as evidence to user story-->
+## User Stories<!--If possible downlod project board from Github if not link to github projects and then additional link as evidence to user story-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -83,11 +83,11 @@ Visitors will have an option to join live sessions, provide feedback for site de
 </details>
 
 
-## Website Goals and Objective <!--Whats my aim for this website-->
+## Website Goals and Objective<!--Whats my aim for this website-->
 
-## Target Audience <!--Who or what audience is the website aimed at-->
+## Target Audience<!--Who or what audience is the website aimed at-->
 
-## Wire Frames <!--Add what tool was used explain best practices-->
+## Wire Frames<!--Add what tool was used explain best practices-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -146,7 +146,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 <!--Add back to top link for design choices-->
 
-## Features <!--Add features as we go on with coding written-->
+## Features<!--Add features as we go on with coding written-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -169,7 +169,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 <!--Add back to top link for design choices-->
 
-## Future Improvements <!--Add targets once website complete-->
+## Future Improvements<!--Add targets once website complete-->
 
 ## Technologies Used 
 
@@ -198,7 +198,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details>
 
-## Testing <!--Brief description of how, what & why was tested-->
+## Testing<!--Brief description of how, what & why was tested-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -275,7 +275,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details> 
 
-## **Deployment** <!--Describe how you deployed (if relevant also forked & cloned) through GitHub-->
+## **Deployment**<!--Describe how you deployed (if relevant also forked & cloned) through GitHub-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -300,3 +300,6 @@ Visitors will have an option to join live sessions, provide feedback for site de
     + Example
 
 </details> <!--Add above here for Credits-->
+
+
+[def]: user
