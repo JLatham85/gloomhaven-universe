@@ -19,6 +19,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 + User Goals
 + User Stories
+
     + User Story 1
     + User Story 2 
     + User Story 3
@@ -74,11 +75,11 @@ Visitors will have an option to join live sessions, provide feedback for site de
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
-+ User Story 1
-+ User Story 2
-+ User Story 3
-+ User Story 4
-+ <!-- Add additional User Storys as & when needed-->
+#### **User Story 1**
+#### **User Story 2**
+#### **User Story 3**
+#### **User Story 4**
+#### **Space for additional remove if not needed**<!-- Add additional User Storys as & when needed-->
 
 </details>
 
@@ -146,7 +147,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 <!--Add back to top link for design choices-->
 
-## Features <!--Add features as we go on with coding written-->
+## **Features** <!--Add features as we go on with coding written-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -161,7 +162,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 + 404 Under Construction
 
-+ <!--Add additional when wireframe designs is done-->
++ **Space for additional remove if not needed**<!--Add additional when wireframe designs is done-->
 
 </details>
 
