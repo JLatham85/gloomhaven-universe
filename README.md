@@ -19,11 +19,6 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 + [User Goals](#user-goals) 
 + [User Stories](#user-stories)
-    + User Story 1
-    + User Story 2 
-    + User Story 3
-    + User Story 4
-    + <!-- Add additional User Storys as & when needed-->
 + [Website Goals & Objectives](#website-goals-and-objective)
 + [Target Audience](#target-audience)
 + [Wireframes](#wire-frames)
@@ -78,21 +73,9 @@ Visitors will have an option to join live sessions, provide feedback for site de
 + Book/ arrange meetups to play physical boardgame(s)
 
 
-## User Stories<!--If possible downlod project board from Github if not link to github projects and then additional link as evidence to user story-->
+## User Stories<!--Use github project and use link-->
 
 [Github Project Board with User Stories](https://github.com/users/JLatham85/projects/3)
-
-<details> 
-<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
-
-#### **User Story 1**
-#### **User Story 2**
-#### **User Story 3**
-#### **User Story 4**
-#### **Space for additional remove if not needed**<!-- Add additional User Storys as & when needed-->
-
-</details>
-
 
 ## Website Goals and Objective<!--Whats my aim for this website-->
 
