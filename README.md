@@ -68,7 +68,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details>
 
-## User Goals <!--Add what I believe the user ogoals are-->
+## User Goals <!--Add what I believe the user goals are-->
 
 ## User Stories <!--Make up user goals for website may if i struggle use co-pilot-->
 
@@ -150,6 +150,9 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 ## Features <!--Add features as we go on with coding written-->
 
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+
 #### **Existing Features** <!--Add features as we go on with coding evidenced-->
 
 + Header
@@ -161,6 +164,8 @@ Visitors will have an option to join live sessions, provide feedback for site de
 + 404 Under Construction
 
 + <!--Add additional when wireframe designs is done-->
+
+</details>
 
 </details> <!--Insert before this details to include in Design choices-->
 
@@ -238,7 +243,12 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details>
 
-## **Feature Testing** <!--How, what, why & result description - potentially creat checklist in excel or table here of features and testing results-->
+## **Feature Testing** <!--How, what, why & result description - potentially create checklist in excel or table here of features and testing results-->
+
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+
+</details> <!--Add above here for Feature Testing-->
 
 ## **Accessibility Testing** 
 
@@ -253,11 +263,31 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 ## **Lighthouse Testing** <!--How, what, why & result description - potentially download errors page convert to excel list How, what, where, why & result if errors-->
 
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+
+</details> <!--Add above here for Lighthouse Testing-->
+
 ## **Browser Testing** <!--Search top browsers and test website on all, give descriptions and examples-->
+
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+
+</details> <!--Add above here for Browser Testing-->
+
+</details> 
 
 ## **Deployment** <!--Describe how you deployed (if relevant also forked & cloned) through GitHub-->
 
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+
+</details> <!--Add above here for Deployment-->
+
 ## **Credits** 
+
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 + Supported from:
     + Simen Daehlin
@@ -270,3 +300,5 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 + Images: 
     + Example
+
+</details> <!--Add above here for Credits-->
