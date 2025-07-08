@@ -19,6 +19,11 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 + User Goals
 + User Stories
+    + User Story 1
+    + User Story 2 
+    + User Story 3
+    + User Story 4
+    + <!-- Add additional User Storys as & when needed-->
 + Website Goals & Objectives
 + Target Audience
 + Wireframes
@@ -31,12 +36,6 @@ Visitors will have an option to join live sessions, provide feedback for site de
     + Color Scheme
     + Images
     + Responsiveness
-+ User story testing
-    + User Story 1
-    + User Story 2 
-    + User Story 3
-    + User Story 4
-    + <!-- Add additional User Storys as & when needed-->
 + Features - <!--Review and complete this section when wireframes completed-->
     + Existing Features
         + Header
@@ -70,7 +69,19 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 ## User Goals <!--Add what I believe the user goals are-->
 
-## User Stories <!--Make up user goals for website may if i struggle use co-pilot-->
+## **User Stories** <!--If possible downlod project board from Github if not link to github projects and then additional link as evidence to user story-->
+
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+
++ User Story 1
++ User Story 2
++ User Story 3
++ User Story 4
++ <!-- Add additional User Storys as & when needed-->
+
+</details>
+
 
 ## Website Goals and Objective <!--Whats my aim for this website-->
 
@@ -134,19 +145,6 @@ Visitors will have an option to join live sessions, provide feedback for site de
 </details> <!--Insert before this details to include in Design choices-->
 
 <!--Add back to top link for design choices-->
-
-## **User Stories** <!--If possible downlod project board from Github if not link to github projects and then additional link as evidence to user story-->
-
-<details> 
-<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
-
-+ User Story 1
-+ User Story 2
-+ User Story 3
-+ User Story 4
-+ <!-- Add additional User Storys as & when needed-->
-
-</details>
 
 ## Features <!--Add features as we go on with coding written-->
 
