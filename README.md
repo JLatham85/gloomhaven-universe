@@ -80,6 +80,8 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 ## User Stories<!--If possible downlod project board from Github if not link to github projects and then additional link as evidence to user story-->
 
+[Github Project Board with User Stories](https://github.com/users/JLatham85/projects/3)
+
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
