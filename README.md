@@ -31,6 +31,12 @@ Visitors will have an option to join live sessions, provide feedback for site de
     + Color Scheme
     + Images
     + Responsiveness
++ User story testing
+    + User Story 1
+    + User Story 2 
+    + User Story 3
+    + User Story 4
+    + <!-- Add additional User Storys as & when needed-->
 + Features - <!--Review and complete this section when wireframes completed-->
     + Existing Features
         + Header
@@ -48,7 +54,6 @@ Visitors will have an option to join live sessions, provide feedback for site de
     + Code Validation
         + HTML
         + CSS
-    + User story testing
     + Feature Testing
     + Accessibility Testing
     + Lighthouse Testing
@@ -130,23 +135,43 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 <!--Add back to top link for design choices-->
 
+## **User Stories** <!--If possible downlod project board from Github if not link to github projects and then additional link as evidence to user story-->
+
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+
++ User Story 1
++ User Story 2
++ User Story 3
++ User Story 4
++ <!-- Add additional User Storys as & when needed-->
+
+</details>
+
 ## Features <!--Add features as we go on with coding written-->
 
 #### **Existing Features** <!--Add features as we go on with coding evidenced-->
 
 + Header
 
-+ <!--Add additional when balsamiq design is done-->
-
 + Footer
 
-+ 404Page
++ 404 HTML Error Page
+
++ 404 Under Construction
+
++ <!--Add additional when wireframe designs is done-->
+
+</details> <!--Insert before this details to include in Design choices-->
 
 <!--Add back to top link for design choices-->
 
 ## **Future Improvements** <!--Add targets once website complete-->
 
 ## **Technologies Used** 
+
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 #### **Languages**
 + HTML5 <!--Link to description-->
@@ -168,8 +193,12 @@ Visitors will have an option to join live sessions, provide feedback for site de
 + W3C HTML Validation
 + W3C CSS Validation
 
-## **Testing** <!--Brief description of how, whagt & why was tested-->
+</details>
 
+## **Testing** <!--Brief description of how, what & why was tested-->
+
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 ### **Bugs** <!--Any bugs found status and if fixed in a table array-->
 
@@ -208,8 +237,6 @@ Visitors will have an option to join live sessions, provide feedback for site de
 <!--Brief description of validators used, what was tested i.e. page amount, how many errors. Also Pic example-->
 
 </details>
-
-## **User Stories** <!--If possible downlod project board from Github if not link to github projects and then additional link as evidence to user story-->
 
 ## **Feature Testing** <!--How, what, why & result description - potentially creat checklist in excel or table here of features and testing results-->
 
