@@ -12,14 +12,13 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 <!--Insert img with the different platforms and how the screen is displayed-->
 
-## **Contents** 
+## Contents 
 <!--Change contents to relevance this is just initial layout and add links to relevant section, use into collapse & expand lists for ease of navigation-->
 <details>
     <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 + User Goals
 + User Stories
-
     + User Story 1
     + User Story 2 
     + User Story 3
