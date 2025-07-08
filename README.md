@@ -70,7 +70,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 ## User Goals <!--Add what I believe the user goals are-->
 
-## **User Stories** <!--If possible downlod project board from Github if not link to github projects and then additional link as evidence to user story-->
+## User Stories <!--If possible downlod project board from Github if not link to github projects and then additional link as evidence to user story-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -147,7 +147,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 <!--Add back to top link for design choices-->
 
-## **Features** <!--Add features as we go on with coding written-->
+## Features <!--Add features as we go on with coding written-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -170,9 +170,9 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 <!--Add back to top link for design choices-->
 
-## **Future Improvements** <!--Add targets once website complete-->
+## Future Improvements <!--Add targets once website complete-->
 
-## **Technologies Used** 
+## Technologies Used 
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -199,7 +199,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details>
 
-## **Testing** <!--Brief description of how, what & why was tested-->
+## Testing <!--Brief description of how, what & why was tested-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -242,32 +242,32 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details>
 
-## **Feature Testing** <!--How, what, why & result description - potentially create checklist in excel or table here of features and testing results-->
+### **Feature Testing** <!--How, what, why & result description - potentially create checklist in excel or table here of features and testing results-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 </details> <!--Add above here for Feature Testing-->
 
-## **Accessibility Testing** 
+### **Accessibility Testing** 
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
-### **Wave Tool** <!--Use wave tool to test and how, what, where, why & result if errors-->
+#### **Wave Tool** <!--Use wave tool to test and how, what, where, why & result if errors-->
 
-### **Color Contrast** <!--Use Color contrast accessibility tester. How, what, where, why & result if errors-->
+#### **Color Contrast** <!--Use Color contrast accessibility tester. How, what, where, why & result if errors-->
 
 </details>
 
-## **Lighthouse Testing** <!--How, what, why & result description - potentially download errors page convert to excel list How, what, where, why & result if errors-->
+### **Lighthouse Testing** <!--How, what, why & result description - potentially download errors page convert to excel list How, what, where, why & result if errors-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 </details> <!--Add above here for Lighthouse Testing-->
 
-## **Browser Testing** <!--Search top browsers and test website on all, give descriptions and examples-->
+### **Browser Testing** <!--Search top browsers and test website on all, give descriptions and examples-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
