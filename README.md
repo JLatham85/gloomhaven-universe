@@ -2,33 +2,41 @@
 
 ### **Gloomhaven Universe** <!--Add website link in here-->
 
-Gloomhaven Universe <!--Write a paragraph ot 2 About the website, it's function and goals-->
+<!--Write a paragraph ot 2 About the website, it's function and goals-->
+
+Gloomhaven Universe is all about inviting beginners through to experts to the world of boardgame RPG's. Starting with Gloomhaven (one of the old hats) and it's 3 other boardgames although all seperate belong to the same universe.
+
+With the content set to intrigue and explore and the features to teach and play. From fun introductions to each of the games, to the "How to plays" and of course the exciting part actually playing.
+
+Visitors will have an option to join live sessions, provide feedback for site development, option to review games, book learning/ taster sessions. Playing session starting with the online version working upto to the physical boardgames. 
 
 <!--Insert img with the different platforms and how the screen is displayed-->
 
-## **Contents** <!--Change contents to relevance this is just initial layout and add links to relevant section, look into close/ open lists-->
+## **Contents** 
+<!--Change contents to relevance this is just initial layout and add links to relevant section, use into collapse & expand lists for ease of navigation-->
 <details>
     <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 + User Goals
 + User Stories
 + Website Goals & Objectives
++ Target Audience
 + Wireframes
+    + Mobile Wireframes
+    + Tablet Wireframes
+    + Laptop Wireframes
+    + Desktop Wireframes
 + Design Choices
     + Typography
     + Color Scheme
     + Images
     + Responsiveness
-
-+ Features
++ Features - <!--Review and complete this section when wireframes completed-->
     + Existing Features
         + Header
-            + Instructions
-            + Feedback
-        + Landing View
-        + Question View
-        + Final Score View
         + Footer
+        + 404 HTML Error Page
+        + 404 Under Construction
     + Future Improvements
 + Technologies Used
     + Languages
@@ -65,13 +73,19 @@ Gloomhaven Universe <!--Write a paragraph ot 2 About the website, it's function 
 
 ## Wire Frames <!--Add what tool was used explain best practices-->
 
-Mobile Wireframes <!--Create link to wireframe-->
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
-Tablet Wireframes <!--Create link to wireframe-->
 
-Laptop Wireframes <!--Create link to wireframe-->
+#### **Mobile Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-Desktop Wireframes <!--Create link to wireframe-->
+#### **Tablet Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+
+#### **Laptop Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+
+#### **Desktop Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+
+</details>
 
 ## Design Choices
 
