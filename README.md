@@ -42,7 +42,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
         + Footer
         + 404 HTML Error Page
         + 404 Under Construction
-    + Future Improvements
++ Future Improvements
 + Technologies Used
     + Languages
     + Libraries & Framework
@@ -203,7 +203,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
-### **Bugs** <!--Any bugs found status and if fixed in a table array-->
+#### **Bugs** <!--Any bugs found status and if fixed in a table array-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -214,7 +214,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details>
 
-### **Responsiness Tests**
+#### **Responsiness Tests**
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -227,46 +227,46 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details>
 
-### **Code Validation**
+#### **Code Validation**
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
-#### HTML:
+##### HTML:
 <!--Brief description of validators used, what was tested i.e. page amount, how many errors. Also Pic example-->
 
-#### CSS:
+##### CSS:
 
 <!--Brief description of validators used, what was tested i.e. page amount, how many errors. Also Pic example-->
 
 </details>
 
-### **Feature Testing** <!--How, what, why & result description - potentially create checklist in excel or table here of features and testing results-->
+#### **Feature Testing** <!--How, what, why & result description - potentially create checklist in excel or table here of features and testing results-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 </details> <!--Add above here for Feature Testing-->
 
-### **Accessibility Testing** 
+#### **Accessibility Testing** 
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
-#### **Wave Tool** <!--Use wave tool to test and how, what, where, why & result if errors-->
+##### **Wave Tool** <!--Use wave tool to test and how, what, where, why & result if errors-->
 
-#### **Color Contrast** <!--Use Color contrast accessibility tester. How, what, where, why & result if errors-->
+##### **Color Contrast** <!--Use Color contrast accessibility tester. How, what, where, why & result if errors-->
 
 </details>
 
-### **Lighthouse Testing** <!--How, what, why & result description - potentially download errors page convert to excel list How, what, where, why & result if errors-->
+#### **Lighthouse Testing** <!--How, what, why & result description - potentially download errors page convert to excel list How, what, where, why & result if errors-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 </details> <!--Add above here for Lighthouse Testing-->
 
-### **Browser Testing** <!--Search top browsers and test website on all, give descriptions and examples-->
+#### **Browser Testing** <!--Search top browsers and test website on all, give descriptions and examples-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
