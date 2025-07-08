@@ -17,7 +17,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 <details>
     <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
-+ User Goals
++ User Goals 
 + User Stories
     + User Story 1
     + User Story 2 
@@ -61,7 +61,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
     + To deploy the project
     + To fork the project
     + To clone the project
-+ Credits
++ [Credits](#credits)
 
 <!--Add link to back to top of contents-->
 
