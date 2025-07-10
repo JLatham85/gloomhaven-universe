@@ -89,6 +89,11 @@ Visitors will have an option to join live sessions, provide feedback for site de
 + Expand platform to include a shop
 
 ## Target Audience<!--Who or what audience is the website aimed at-->
++ Boardgame players from beginner to expert
++ General people who are interested
++ Local event groups
++ Boardgame reviewers
++ Boardgame shops 
 
 ## Wire Frames<!--Add what tool was used explain best practices-->
 
