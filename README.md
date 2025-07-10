@@ -165,9 +165,11 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 + Footer
 
++ Events Page
+
 + 404 HTML Error Page
 
-+ 404 Under Construction
++ Under Construction Page
 
 + **Space for additional remove if not needed**<!--Add additional when wireframe designs is done-->
 
