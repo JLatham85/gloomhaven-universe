@@ -78,6 +78,15 @@ Visitors will have an option to join live sessions, provide feedback for site de
 [Github Project Board with User Stories](https://github.com/users/JLatham85/projects/3)
 
 ## Website Goals and Objective<!--Whats my aim for this website-->
++ Introduce the world of Boardgames via the Gloomhaven Universe
++ Introduce the genre RPG's physical and on PC
++ Help understand the gloomhaven mechanics
++ Have intro sessions for people to learn
++ Have an area where people can meet up and play
++ Have a FAQ's board to assist with learning
++ Expand to have a boardgames rating board by those who have played the games
++ Expand the platform to more games
++ Expand platform to include a shop
 
 ## Target Audience<!--Who or what audience is the website aimed at-->
 
