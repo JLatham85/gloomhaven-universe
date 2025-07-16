@@ -8,61 +8,59 @@ Gloomhaven Universe is all about inviting beginners through to experts to the wo
 
 With the content set to intrigue and explore and the features to teach and play. From fun introductions to each of the games, to the "How to plays" and of course the exciting part actually playing.
 
-Visitors will have an option to join live sessions, provide feedback for site development, option to review games, book learning/ taster sessions. Playing session starting with the online version working upto to the physical boardgames. 
+Visitors will have an option to join live sessions, provide feedback for site development, option to review games, book learning/ taster sessions. Playing session starting with the online version working upto to the physical boardgames.
 
 <!--Insert img with the different platforms and how the screen is displayed-->
 
-## Contents 
+## Contents
 <!--Change contents to relevance this is just initial layout and add links to relevant section, use into collapse & expand lists for ease of navigation-->
-<details>
-    <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+### Table of Contents
 
-+ [User Goals](#user-goals) 
-+ [User Stories](#user-stories)
-+ [Website Goals & Objectives](#website-goals-and-objective)
-+ [Target Audience](#target-audience)
-+ [Wireframes](#wire-frames)
-    + Mobile Wireframes
-    + Tablet Wireframes
-    + Laptop Wireframes
-    + Desktop Wireframes
-+ [Design Choices](#design-choices)
-    + Typography
-    + Color Scheme
-    + Images
-    + Responsiveness
-+ [Features](#features)<!--Review and complete this section when wireframes completed-->
-    + Existing Features
-        + Header
-        + Footer
-        + 404 HTML Error Page
-        + 404 Under Construction
-+ [Future Improvements](#future-improvements)
-+ [Technologies Used](#technologies-used)
-    + Languages
-    + Libraries & Framework
-    + Tools
-+ [Testing](#testing)
-    + Bugs Fixed
-    + Responsiveness Tests
-    + Code Validation
-        + HTML
-        + CSS
-    + Feature Testing
-    + Accessibility Testing
-    + Lighthouse Testing
-    + Browser Testing
-+ [Deployment](#deployment)
-    + To deploy the project
-    + To fork the project
-    + To clone the project
-+ [Credits](#credits)
+- [User Goals](#user-goals) 
+- [User Stories](#user-stories)
+- [Website Goals & Objectives](#website-goals-and-objective)
+- [Target Audience](#target-audience)
+- [Wireframes](#wire-frames)
+    - Mobile Wireframes
+    - Tablet Wireframes
+    - Laptop Wireframes
+    - Desktop Wireframes
+- [Design Choices](#design-choices)
+    - Typography
+    - Color Scheme
+    - Images
+    - Responsiveness
+- [Features](#features) <!--Review and complete this section when wireframes completed-->
+    - Existing Features
+        - Header
+        - Footer
+        - 404 HTML Error Page
+        - 404 Under Construction
+- [Future Improvements](#future-improvements)
+- [Technologies Used](#technologies-used)
+    - Languages
+    - Libraries & Framework
+    - Tools
+- [Testing](#testing)
+    - Bugs Fixed
+    - Responsiveness Tests
+    - Code Validation
+        - HTML
+        - CSS
+    - Feature Testing
+    - Accessibility Testing
+    - Lighthouse Testing
+    - Browser Testing
+- [Deployment](#deployment)
+    - To deploy the project
+    - To fork the project
+    - To clone the project
+- [Credits](#credits)
 
 <!--Add link to back to top of contents-->
 
-</details>
-
 ## User Goals<!--Add what I believe the user goals are-->
+
 + Learn about the Role Playing Game (RPG's) Gloomhaven
 + Learn about the Universe of Gloomhaven
 + Learn How to Play Gloomhaven
@@ -78,6 +76,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 [Github Project Board with User Stories](https://github.com/users/JLatham85/projects/3)
 
 ## Website Goals and Objective<!--Whats my aim for this website-->
+
 + Introduce the world of Boardgames via the Gloomhaven Universe
 + Introduce the genre RPG's physical and on PC
 + Help understand the gloomhaven mechanics
@@ -89,6 +88,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 + Expand platform to include a shop
 
 ## Target Audience<!--Who or what audience is the website aimed at-->
+
 + Boardgame players from beginner to expert
 + General people who are interested
 + Local event groups
@@ -99,7 +99,6 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
-
 
 #### **Mobile Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
@@ -187,6 +186,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 #### **Languages**
+
 + HTML5 <!--Link to description-->
 + CSS <!--Link to description-->
 
@@ -298,18 +298,15 @@ Visitors will have an option to join live sessions, provide feedback for site de
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 + Supported from:
-    + Simen Daehlin
+  + Simen Daehlin
 
 + Coding Assistance and inspiration:
-    + Example
+  + Example
 
 + Visual Content:
-    + Example
+  + Example
 
-+ Images: 
-    + Example
++ Images:
+  + Example
 
 </details> <!--Add above here for Credits-->
-
-
-[def]: user
