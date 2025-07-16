@@ -21,55 +21,54 @@ Visitors will have an option to join live sessions, provide feedback for site de
 - [Website Goals & Objectives](#website-goals-and-objective)
 - [Target Audience](#target-audience)
 - [Wireframes](#wire-frames)
-    - Mobile Wireframes
-    - Tablet Wireframes
-    - Laptop Wireframes
-    - Desktop Wireframes
+  - Mobile Wireframes
+  - Tablet Wireframes
+  - Laptop Wireframes
+  - Desktop Wireframes
 - [Design Choices](#design-choices)
-    - Typography
-    - Color Scheme
-    - Images
-    - Responsiveness
+  - Typography
+  - Color Scheme
+  - Images
+  - Responsiveness
 - [Features](#features) <!--Review and complete this section when wireframes completed-->
-    - Existing Features
-        - Header
-        - Footer
-        - 404 HTML Error Page
-        - 404 Under Construction
+  - Existing Features
+    - Header
+    - Footer
+    - 404 HTML Error Page
+    - 404 Under Construction
 - [Future Improvements](#future-improvements)
 - [Technologies Used](#technologies-used)
-    - Languages
-    - Libraries & Framework
-    - Tools
+  - Languages
+  - Libraries & Framework
+  - Tools
 - [Testing](#testing)
-    - Bugs Fixed
-    - Responsiveness Tests
-    - Code Validation
-        - HTML
-        - CSS
-    - Feature Testing
-    - Accessibility Testing
-    - Lighthouse Testing
-    - Browser Testing
+  - Bugs Fixed
+  - Responsiveness Tests
+  - Code Validation
+    - HTML
+    - CSS
+  - Feature Testing
+  - Accessibility Testing
+  - Lighthouse Testing
+  - Browser Testing
 - [Deployment](#deployment)
-    - To deploy the project
-    - To fork the project
-    - To clone the project
+  - To deploy the project
+  - To fork the project
+  - To clone the project
 - [Credits](#credits)
 
 <!--Add link to back to top of contents-->
 
 ## User Goals<!--Add what I believe the user goals are-->
 
-+ Learn about the Role Playing Game (RPG's) Gloomhaven
-+ Learn about the Universe of Gloomhaven
-+ Learn How to Play Gloomhaven
-+ Play Gloomhaven 
-+ Ease of Navigation
-+ Clear instructions in English (potentially other languages)
-+ Book/ register for learning session
-+ Book/ arrange meetups to play physical boardgame(s)
-
+- Learn about the Role Playing Game (RPG's) Gloomhaven
+- Learn about the Universe of Gloomhaven
+- Learn How to Play Gloomhaven
+- Play Gloomhaven
+- Ease of Navigation
+- Clear instructions in English (potentially other languages)
+- Book/ register for learning session
+- Book/ arrange meetups to play physical boardgame(s)
 
 ## User Stories<!--Use github project and use link-->
 
@@ -77,23 +76,23 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 ## Website Goals and Objective<!--Whats my aim for this website-->
 
-+ Introduce the world of Boardgames via the Gloomhaven Universe
-+ Introduce the genre RPG's physical and on PC
-+ Help understand the gloomhaven mechanics
-+ Have intro sessions for people to learn
-+ Have an area where people can meet up and play
-+ Have a FAQ's board to assist with learning
-+ Expand to have a boardgames rating board by those who have played the games
-+ Expand the platform to more games
-+ Expand platform to include a shop
+- Introduce the world of Boardgames via the Gloomhaven Universe
+- Introduce the genre RPG's physical and on PC
+- Help understand the gloomhaven mechanics
+- Have intro sessions for people to learn
+- Have an area where people can meet up and play
+- Have a FAQ's board to assist with learning
+- Expand to have a boardgames rating board by those who have played the games
+- Expand the platform to more games
+- Expand platform to include a shop
 
 ## Target Audience<!--Who or what audience is the website aimed at-->
 
-+ Boardgame players from beginner to expert
-+ General people who are interested
-+ Local event groups
-+ Boardgame reviewers
-+ Boardgame shops 
+- Boardgame players from beginner to expert
+- General people who are interested
+- Local event groups
+- Boardgame reviewers
+- Boardgame shops
 
 ## Wire Frames<!--Add what tool was used explain best practices-->
 
@@ -160,17 +159,17 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 #### **Existing Features** <!--Add features as we go on with coding evidenced-->
 
-+ Header
+- Header
 
-+ Footer
+- Footer
 
-+ Events Page
+- Events Page
 
-+ 404 HTML Error Page
+- 404 HTML Error Page
 
-+ Under Construction Page
+- Under Construction Page
 
-+ **Space for additional remove if not needed**<!--Add additional when wireframe designs is done-->
+- **Space for additional remove if not needed**<!--Add additional when wireframe designs is done-->
 
 </details>
 
@@ -180,31 +179,31 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 ## Future Improvements<!--Add targets once website complete-->
 
-## Technologies Used 
+## Technologies Used
 
-<details> 
+<details>
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 #### **Languages**
 
-+ HTML5 <!--Link to description-->
-+ CSS <!--Link to description-->
+- HTML5 <!--Link to description-->
+- CSS <!--Link to description-->
 
 #### **Libraries and Framework** <!--List below is genric add/ remove where necessary-->
 
-+ Bootstrap
-+ Font Awesone
-+ Google Fonts
-+ Favicon
+- Bootstrap
+- Font Awesone
+- Google Fonts
+- Favicon
 
 #### **Tools** <!--List below is genric add/ remove where necessary-->
 
-+ VS Code
-+ GitHub
-+ GitPod
-+ Balsamiq
-+ W3C HTML Validation
-+ W3C CSS Validation
+- VS Code
+- GitHub
+- GitPod
+- Balsamiq
+- W3C HTML Validation
+- W3C CSS Validation
 
 </details>
 
@@ -297,16 +296,16 @@ Visitors will have an option to join live sessions, provide feedback for site de
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
-+ Supported from:
-  + Simen Daehlin
+- Supported from:
+  - Simen Daehlin
 
-+ Coding Assistance and inspiration:
-  + Example
+- Coding Assistance and inspiration:
+  - Example
 
-+ Visual Content:
-  + Example
+- Visual Content:
+  - Example
 
-+ Images:
-  + Example
+- Images:
+  - Example
 
 </details> <!--Add above here for Credits-->
