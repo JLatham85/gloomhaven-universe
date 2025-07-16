@@ -114,10 +114,13 @@ Visitors will have an option to join live sessions, provide feedback for site de
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
+</details>
+
 #### **Typography**
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+
 </details>
 
 #### **Color Scheme** <!--Use a contrast site as well and mention this-->
@@ -257,7 +260,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details> <!--Add above here for Feature Testing-->
 
-#### **Accessibility Testing** 
+#### **Accessibility Testing**
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -282,7 +285,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details> <!--Add above here for Browser Testing-->
 
-</details> 
+</details>
 
 ## **Deployment**<!--Describe how you deployed (if relevant also forked & cloned) through GitHub-->
 
@@ -291,7 +294,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details> <!--Add above here for Deployment-->
 
-## **Credits** 
+## **Credits**
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
