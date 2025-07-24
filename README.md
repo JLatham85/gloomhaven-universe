@@ -99,7 +99,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
-#### **Home Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+### **Home Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -112,7 +112,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details>
 
-#### **Buttons & Bugs Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+### **Buttons & Bugs Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -125,7 +125,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details>
 
-#### **Gloomhaven Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+### **Gloomhaven Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -138,7 +138,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details>
 
-#### **Frosthaven Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+### **Frosthaven Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -151,7 +151,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details>
 
-#### **Gloomhaven Online Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+### **Gloomhaven Online Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -164,7 +164,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details>
 
-#### **Events Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+### **Events Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -177,7 +177,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details>
 
-#### **Contacts Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+### **Contacts Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -190,7 +190,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details>
 
-#### **Form Pop Ups Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+### **Form Pop Ups Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -204,7 +204,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
   - [Feedback Form Part 2 Wireframe](<./assets/images/Wireframes/Feedback Form Part 2.png>)
 </details>
 
-#### **404 Error Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+### **404 Error Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
@@ -217,7 +217,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details>
 
-#### **Under Construction Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+### **Under Construction Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
