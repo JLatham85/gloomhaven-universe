@@ -185,7 +185,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 ## Design Choices
 
-<details> 
+<details open> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 #### **Typography**
@@ -229,7 +229,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 ## Features<!--Add features as we go on with coding written-->
 
-<details> 
+<details open> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 #### **Existing Features** <!--Add features as we go on with coding evidenced-->
@@ -256,7 +256,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 ## Technologies Used
 
-<details>
+<details open>
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 #### **Languages**
@@ -284,7 +284,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 ## Testing<!--Brief description of how, what & why was tested-->
 
-<details> 
+<details open> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 #### **Bugs** <!--Any bugs found status and if fixed in a table array-->
@@ -361,14 +361,14 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 ## **Deployment**<!--Describe how you deployed (if relevant also forked & cloned) through GitHub-->
 
-<details> 
+<details open> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 </details> <!--Add above here for Deployment-->
 
 ## **Credits**
 
-<details> 
+<details open> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 - Supported from:
