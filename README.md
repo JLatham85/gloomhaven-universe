@@ -14,6 +14,10 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 ## Contents
 <!--Change contents to relevance this is just initial layout and add links to relevant section, use into collapse & expand lists for ease of navigation-->
+
+<details open> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+
 ### Table of Contents
 
 - [User Goals](#user-goals) 
@@ -57,7 +61,11 @@ Visitors will have an option to join live sessions, provide feedback for site de
   - To clone the project
 - [Credits](#credits)
 
+[Back to Top of Contents](#contents)
+
 <!--Add link to back to top of contents-->
+
+</details>
 
 ## User Goals<!--Add what I believe the user goals are-->
 
