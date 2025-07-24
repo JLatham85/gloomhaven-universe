@@ -222,6 +222,8 @@ The below will display that I have used a contrast grid to make sure website is 
 
 - [Contrast Grid](<./assets/images/Design/Contrast Grid.png>)
 
+- CSS Variables
+
 | CSS Name | HEX | RGB | Comment |
 |----------|:---:|:---:|---------|
 |Example 1 | Ex1 | Ex 1| Example 1 | 
