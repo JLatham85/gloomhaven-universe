@@ -99,15 +99,36 @@ Visitors will have an option to join live sessions, provide feedback for site de
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
-#### **Mobile Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+#### **Home Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
+<details> 
+<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
+- [Mobile & iPad Wireframe](...\assets\images\Wireframes\Home_Wireframe_Mobile_iPad_Navbar)
 
-#### **Tablet Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+- [Laptop Wireframe]
 
-#### **Laptop Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+- [Desktop Wireframe]
 
-#### **Desktop Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+</details>
+
+#### **Buttons & Bugs Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+
+#### **Gloomhaven Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+
+#### **Frosthaven Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+
+#### **Gloomhaven Online Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+
+#### **Events Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+
+#### **Contacts Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+
+#### **Form Pop Ups Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+
+#### **404 Error Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
+
+#### **Under Construction Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
 </details>
 
