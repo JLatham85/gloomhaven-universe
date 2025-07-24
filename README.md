@@ -101,7 +101,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 #### **Home Page Wireframes** <!--Create link to wireframe or copy and paste wireframe--> 
 
-- [Mobile, iPad & Navbar Wireframes](<./assets/images/Wireframes/Home Wireframe Mobile iPad Navbar.png>)
+- [Mobile, iPad & Navbar Wireframes](<./assets/images/Wireframes/Home Wireframe Mobile iPad Navbar.png>){:target="_blank"}
 
 - [Laptop Wireframe](<./assets/images/Wireframes/Home Wireframe Laptop.png>)
 
