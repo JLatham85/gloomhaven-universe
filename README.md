@@ -104,7 +104,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
-- [Mobile & iPad Wireframe](...\assets\images\Wireframes\Home_Wireframe_Mobile_iPad_Navbar)
+- [Mobile, iPad & Navbar Wireframes](<./assets/images/Wireframes/Home Wireframe Mobile iPad Navbar.png>)
 
 - [Laptop Wireframe]
 
