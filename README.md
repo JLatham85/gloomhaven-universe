@@ -101,6 +101,8 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 #### **Mobile Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
+
+
 #### **Tablet Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
 #### **Laptop Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
@@ -113,8 +115,6 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
-
-</details>
 
 #### **Typography**
 
