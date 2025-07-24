@@ -100,6 +100,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 #### **Home Page Wireframes** <!--Create link to wireframe or copy and paste wireframe--> 
+
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
