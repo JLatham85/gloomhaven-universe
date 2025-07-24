@@ -208,15 +208,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 #### **Typography**
 
-<details> 
-<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
-
-</details>
-
 #### **Color Scheme** <!--Use a contrast site as well and mention this-->
-
-<details> 
-<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 <!--CSS Name - Color in css thats pre-determined-->
 
@@ -234,21 +226,9 @@ The below will display that I have used a contrast grid to make sure website is 
 |----------|:---:|:---:|---------|
 |Example 1 | Ex1 | Ex 1| Example 1 | 
 
-</details>
-
 #### **Images** <!--Insert any tools used to generate images and add which programme we used to render-->
 
-<details> 
-<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
-
-</details>
-
 #### **Responsiveness**
-
-<details> 
-<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
-
-</details>
 
 </details> <!--Insert before this details to include in Design choices-->
 
