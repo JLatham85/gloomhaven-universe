@@ -226,7 +226,7 @@ The below will display that I have used a contrast grid to make sure website is 
 
 | CSS Name | HEX | RGB | Comment |
 |----------|:---:|:---:|---------|
-|Example 1 | Ex1 | Ex 1| Example 1 | 
+|Example 1 | Ex1 | Ex 1| Example 1 |
 
 #### **Images** <!--Insert any tools used to generate images and add which programme we used to render-->
 
