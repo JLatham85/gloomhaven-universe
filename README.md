@@ -78,9 +78,13 @@ Visitors will have an option to join live sessions, provide feedback for site de
 - Book/ register for learning session
 - Book/ arrange meetups to play physical boardgame(s)
 
+[Back to Contents](#contents)
+
 ## User Stories<!--Use github project and use link-->
 
 [Github Project Board with User Stories](https://github.com/users/JLatham85/projects/3)
+
+[Back to Contents](#contents)
 
 ## Website Goals and Objective<!--Whats my aim for this website-->
 
@@ -94,6 +98,8 @@ Visitors will have an option to join live sessions, provide feedback for site de
 - Expand the platform to more games
 - Expand platform to include a shop
 
+[Back to Contents](#contents)
+
 ## Target Audience<!--Who or what audience is the website aimed at-->
 
 - Boardgame players from beginner to expert
@@ -101,6 +107,8 @@ Visitors will have an option to join live sessions, provide feedback for site de
 - Local event groups
 - Boardgame reviewers
 - Boardgame shops
+
+[Back to Contents](#contents)
 
 ## Wireframes<!--Add what tool was used explain best practices-->
 
@@ -191,6 +199,8 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details >
 
+[Back to Contents](#contents)
+
 ## Design Choices
 
 <details open> 
@@ -235,6 +245,8 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 <!--Add back to top link for design choices-->
 
+[Back to Contents](#contents)
+
 ## Features<!--Add features as we go on with coding written-->
 
 <details open> 
@@ -256,11 +268,15 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details>
 
-</details> <!--Insert before this details to include in Design choices-->
+</details> <!--Insert before this details to include in Features-->
+
+[Back to Contents](#contents)
 
 <!--Add back to top link for design choices-->
 
 ## Future Improvements<!--Add targets once website complete-->
+
+[Back to Contents](#contents)
 
 ## Technologies Used
 
@@ -289,6 +305,8 @@ Visitors will have an option to join live sessions, provide feedback for site de
 - W3C CSS Validation
 
 </details>
+
+[Back to Contents](#contents)
 
 ## Testing<!--Brief description of how, what & why was tested-->
 
@@ -367,12 +385,16 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 </details>
 
+[Back to Contents](#contents)
+
 ## **Deployment**<!--Describe how you deployed (if relevant also forked & cloned) through GitHub-->
 
 <details open> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 </details> <!--Add above here for Deployment-->
+
+[Back to Contents](#contents)
 
 ## **Credits**
 
@@ -392,3 +414,5 @@ Visitors will have an option to join live sessions, provide feedback for site de
   - Example
 
 </details> <!--Add above here for Credits-->
+
+[Back to Contents](#contents)
