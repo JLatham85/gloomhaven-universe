@@ -99,9 +99,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
-#### **Home Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
-
-<details> 
+#### **Home Page Wireframes** <!--Create link to wireframe or copy and paste wireframe--> <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 - [Mobile, iPad & Navbar Wireframes](<./assets/images/Wireframes/Home Wireframe Mobile iPad Navbar.png>)
