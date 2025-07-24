@@ -215,11 +215,20 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 #### **Color Scheme** <!--Use a contrast site as well and mention this-->
 
-<!--CSS Name - Color in css thats pre-determined-->
-<!--Comment - Where is this predetermined color for-->
-
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+
+<!--CSS Name - Color in css thats pre-determined-->
+
+The color scheme is based of the original Gloomhaven box to keep on theme with project. [Coolers](https://coolors.co/) was the website used for color pallette.
+
+- [Color Pallette](<./assets/images/Design/Colour Palette.png>)
+
+<!--Comment - Where is this predetermined color for-->
+
+The below will display that I have used a contrast grid to make sure website is visually appearing but also accessible to all who will view, also I have noted the root CSS Variables I will be utilising. [Eight Shapes](https://contrast-grid.eightshapes.com/) was the website used for color pallette.
+
+- [Contrast Grid](<./assets/images/Design/Contrast Grid.png>)
 
 | CSS Name | HEX | RGB | Comment |
 |----------|:---:|:---:|---------|
