@@ -1,3 +1,18 @@
 /*Imported Google Fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald&family=Permanent+Marker&display=swap');
 
+/* CSS Variables */
+:root {
+    --main-titles: "Anton", sans-serif;
+    --sub-titles: "Permanent Marker", sans-serif;
+    --main-body: "Oswald", sans-serif;
+    --primary-color: #dbd3ad; /* dutch white */
+    --secondary-color: #28160a; /* bistre */
+    --background-forms-unhovered-color: #513b22; /* cafe noir */
+    --background-hovered-color: #513125; /*captum motuum */
+    --highlight-color-header-footer: #966f51; /* raw umber */
+}
+
+/* Global Styles */
+
+
