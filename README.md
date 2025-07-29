@@ -247,11 +247,11 @@ The completed website will be responsive to the Bootstrap breakpoints, which wil
 | Break Point | Class infix | Dimensions |
 |-------------|:-----------:|------------|
 | X-Small | None | <576px |
-| Small | sm | \ge 576px |
-| Medium | md ||
-| Large | lg ||
-| Extra Large | xl ||
-|Extra extra Large | xxl ||
+| Small | sm | >=576px |
+| Medium | md | >=768px |
+| Large | lg | >=992px |
+| Extra Large | xl | >=1200px |
+|Extra extra Large | xxl | >=1400px |
 
 </details> <!--Insert before this details to include in Design choices-->
 
