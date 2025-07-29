@@ -208,6 +208,14 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 #### **Typography**
 
+I have decided to go with 3 different fonts to keep inline with boargaming theme, please see below table for fonts and uses. I have chose these fonts to keep it clean and easy readable but to also have differentials and make the website pop a little. I will also have sans-serif font to back in case original choices fail.
+
+| Font | Utilisation |
+|------|:-----------:|
+| Anton | Main titles for pages |
+| Permanent Marker| Subtitles for pages|
+| Oswald | Bulk of the text on the pages|
+
 #### **Color Scheme** <!--Use a contrast site as well and mention this-->
 
 <!--CSS Name - Color in css thats pre-determined-->
