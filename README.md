@@ -224,9 +224,11 @@ The below will display that I have used a contrast grid to make sure website is 
 
 - CSS Variables
 
+All the below where contrasted then selected for the different categories and will be used as the CSS Variables thoughtout my code. Assisted by [Webaim](https://webaim.org/resources/contrastchecker/) to get a visual prior to selection.
+
 | CSS Name | HEX | RGB | Comment |
 |----------|:---:|:---:|---------|
-|Example 1 | Ex1 | Ex 1| Example 1 |
+|Cafe Noir  | #513B22 | rgb(81 59 31)| Background for forms and unhovered buttons |
 
 #### **Images** <!--Insert any tools used to generate images and add which programme we used to render-->
 
