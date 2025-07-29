@@ -243,7 +243,7 @@ All the below where contrasted then selected for the different categories and wi
 | Bistre | #28160A | rgb(40 22 10) | Background for Header and Footer |
 | Dutch White | #DBD3AD | rgb(219 211 173) | Foreground for Header and Footer |
 | Raw umber | #966F51 | rgb(150 111 81) | Highlight color in Header footer for links |
-| Dutch WHite | #DBD3AD | rgb(219 211 173) | Main page Background |
+| Dutch White | #DBD3AD | rgb(219 211 173) | Main page Background |
 | Bistre | #28160A | rgb(40 22 10) | Main font color for main pages |
 
 #### **Images** <!--Insert any tools used to generate images and add which programme we used to render-->
