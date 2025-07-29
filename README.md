@@ -228,7 +228,9 @@ All the below where contrasted then selected for the different categories and wi
 
 | CSS Name | HEX | RGB | Comment |
 |----------|:---:|:---:|---------|
-|Cafe Noir  | #513B22 | rgb(81 59 31)| Background for forms and unhovered buttons |
+| Cafe Noir | #513B22 | rgb(81 59 31)| Background for forms and unhovered buttons |
+| Dutch White | #DBD3AD | rgb(219 211 173) | Foreground for forms and unhovered buttons |
+
 
 #### **Images** <!--Insert any tools used to generate images and add which programme we used to render-->
 
