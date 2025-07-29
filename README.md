@@ -214,7 +214,7 @@ I have decided to go with 3 different fonts to keep inline with boargaming theme
 |------|:-----------:|
 | Anton | Main titles for pages |
 | Permanent Marker| Subtitles for pages|
-| Oswald | Bulk of the text on the pages|
+| Oswald | Main body of text|
 
 #### **Color Scheme** <!--Use a contrast site as well and mention this-->
 
