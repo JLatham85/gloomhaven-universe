@@ -242,6 +242,17 @@ All the below where contrasted then selected for the different categories and wi
 
 #### **Responsiveness**
 
+The completed website will be responsive to the Bootstrap breakpoints, which will for all screen sizes. This is to assist all viewers to have a seemless experience within the website.
+
+| Break Point | Class infix | Dimensions |
+|-------------|:-----------:|------------|
+| X-Small | None | <576px |
+| Small | sm | \ge 576px |
+| Medium | md ||
+| Large | lg ||
+| Extra Large | xl ||
+|Extra extra Large | xxl ||
+
 </details> <!--Insert before this details to include in Design choices-->
 
 <!--Add back to top link for design choices-->
