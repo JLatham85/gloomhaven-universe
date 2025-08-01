@@ -1,7 +1,7 @@
 /*Imported Google Fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald&family=Permanent+Marker&display=swap');
 
-/* CSS Variables */
+/* CSS Variables Styles */
 :root {
     --main-titles: "Anton", sans-serif;
     --sub-titles: "Permanent Marker", sans-serif;
@@ -14,6 +14,19 @@
 }
 
 /* Global Styles */
+
+/* Button Styles */
+
+/* Navbar Styles */
+
+#navbar {
+    background-color: var(--secondary-color); 
+}
+
+.nav-font {
+    font-family: var(--sub-titles);
+    color: var(--primary-color);
+}
 
 
 
