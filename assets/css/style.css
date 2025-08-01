@@ -26,10 +26,11 @@
 #navbar h1 {
     font-family: var(--sub-titles);
     color: var(--primary-color);
-}
+    }
 
-.navbar-logo {
+.full-logo {
     width: 50px;
+    height: auto;
 }
 
 
