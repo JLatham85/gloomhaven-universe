@@ -23,9 +23,13 @@
     background-color: var(--secondary-color); 
 }
 
-.nav-font {
+#navbar h1 {
     font-family: var(--sub-titles);
     color: var(--primary-color);
+}
+
+.navbar-logo {
+    width: 50px;
 }
 
 
