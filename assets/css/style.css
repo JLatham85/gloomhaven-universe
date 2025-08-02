@@ -35,6 +35,13 @@
 
 .navbar-toggler {
     border: none;
+    color: var(--primary-color);
+}
+
+span.navbar-toggler-icon {
+    border:none;
+    transform: rotate(90deg);
+
 }
 
 .navbar-collapse {
