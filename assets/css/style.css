@@ -33,6 +33,11 @@
     padding: 0;
 }
 
+.navbar-toggler {
+    background-color: var(--primary-color);
+    border: none;
+}
+
 .navbar-collapse {
     flex-basis: 50%;
 }
