@@ -21,9 +21,8 @@
 
 #navbar {
     background-color: var(--secondary-color); 
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: fixed;
+    justify-content: space-around;
 }
 
 #navbar h1 {
