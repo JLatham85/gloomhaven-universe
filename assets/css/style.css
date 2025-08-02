@@ -27,7 +27,10 @@
 #navbar li {
     font-family: var(--main-body);
     color: var(--primary-color);   
-    padding: 0;
+}
+
+.nav-link{
+    padding: 0;    
 }
 
 .logo-nb {
