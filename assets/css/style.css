@@ -45,7 +45,7 @@
 
 .navbar-nav .nav-link.active {
   font-family: var(--sub-titles);
-  color: var(--dutch-white) !important;
+  color: var(--primary-color) !important;
   font-size: 1.2rem;
   letter-spacing: 1px;
 }
