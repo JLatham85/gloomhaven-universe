@@ -24,9 +24,11 @@
 }
 
 #navbar h1 {
+
     font-family: var(--sub-titles);
     color: var(--primary-color);
-    align-self: center;
+    display: flex;
+    jutstify-content: center;
     }
 
 .full-logo {
