@@ -35,6 +35,10 @@
     justify-content: flex-end;
 }
 
+.navbar-collapse {
+    flex-basis: 50%;
+}
+
 .logo-nb {
     width: 35px;
     height: auto;
