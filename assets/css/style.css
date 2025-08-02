@@ -42,6 +42,8 @@
     height: auto;
 }
 
+/* Navber burger without JS */
+
 .burger-rotate {
   width: 30px;
   height: 24px;
@@ -59,7 +61,7 @@
   transition: background-color 0.3s ease;
 }
 
-/* Position the lines */
+/* Position burger lines */
 .burger-rotate span:nth-child(1) {
   top: 0;
 }
@@ -74,8 +76,6 @@
 .navbar-toggler[aria-expanded="true"] .burger-rotate {
   transform: rotate(90deg);
 }
-
-
 
 /* grid visualisation CSS for testing */
 
