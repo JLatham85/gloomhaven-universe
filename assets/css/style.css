@@ -21,15 +21,15 @@
 
 #navbar {
     background-color: var(--secondary-color); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #navbar h1 {
-
     font-family: var(--sub-titles);
-    color: var(--primary-color);
-    display: flex;
-    justify-content: center;
-    }
+    color: var(--primary-color);   
+}
 
 .full-logo {
     width: 50px;
