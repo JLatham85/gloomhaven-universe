@@ -24,12 +24,12 @@
     padding: 0;
 }
 
-.nav-link {
-    padding: 0;  
+.nav-link {  
     display:flex;
     justify-content: flex-end;
     background-color: var(--secondary-color); 
     color: var(--primary-color);
+    font-family: var(--main-body);
     padding: 0;
 }
 
