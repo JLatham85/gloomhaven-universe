@@ -24,15 +24,12 @@
     padding: 0;
 }
 
-#navbar li {
-    font-family: var(--main-body);
-    color: var(--primary-color);   
-}
-
-.nav-link{
+.nav-link {
     padding: 0;  
     display:flex;
     justify-content: flex-end;
+    background-color: var(--secondary-color); 
+    padding: 0;
 }
 
 .navbar-collapse {
