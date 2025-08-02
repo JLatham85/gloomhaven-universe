@@ -21,7 +21,7 @@
 
 #navbar {
     background-color: var(--secondary-color); 
-    display: fixed;
+    display: flex;
     justify-content: space-around;
 }
 
