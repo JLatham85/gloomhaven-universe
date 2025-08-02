@@ -28,7 +28,7 @@
     font-family: var(--sub-titles);
     color: var(--primary-color);
     display: flex;
-    jutstify-content: center;
+    justify-content: center;
     }
 
 .full-logo {
