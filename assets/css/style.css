@@ -33,16 +33,16 @@
     padding: 0;
 }
 
-/*.navbar-toggler {
+.navbar-toggler {
     border: none;
-    color: var(--primary-color);
-}*/
+}
 
 span.navbar-toggler-icon {
     border:none;
-    
+    transform: rotate(90deg);
+    transition: transform 0.3s ease;
+}   
 
-}
 
 .navbar-collapse {
     flex-basis: 50%;
