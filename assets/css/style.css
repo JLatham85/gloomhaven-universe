@@ -25,7 +25,7 @@
     border: none;
 }
 
-.nav-link {  
+.nav-link, .nav-link-active {  
     display:flex;
     justify-content: flex-end;
     background-color: var(--secondary-color); 
