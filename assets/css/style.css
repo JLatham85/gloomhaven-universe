@@ -30,7 +30,9 @@
 }
 
 .nav-link{
-    padding: 0;    
+    padding: 0;  
+    display:flex;
+    justify-content: flex-end;
 }
 
 .logo-nb {
