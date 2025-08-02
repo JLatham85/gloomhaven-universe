@@ -43,6 +43,25 @@
     height: auto;
 }
 
+/* Remove Bootstrap formatting from burger in navbar */
+
+.navbar-toggler {
+  border: none;
+  box-shadow: none;
+  outline: none;
+  padding: 0.5rem; /* Optional: adjust spacing */
+  background-color: transparent; /* Keeps it clean */
+}
+
+/* Remove hover border or outline */
+.navbar-toggler:focus,
+.navbar-toggler:hover {
+  border: none;
+  box-shadow: none;
+  outline: none;
+}
+
+
 /* Navber burger without JS */
 
 .burger-rotate {
