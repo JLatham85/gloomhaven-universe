@@ -25,7 +25,7 @@
 }
 
 #navbar li {
-    font-family: var(--sub-titles);
+    font-family: var(--main-body);
     color: var(--primary-color);   
 }
 
