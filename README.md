@@ -82,17 +82,17 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 ## User Stories<!--Use github project and use link-->
 
-- Understanding Gloomhaven [#1]
+- Understanding Gloomhaven [#1](https://github.com/JLatham85/gloomhaven-universe/issues/1)
 
-- Ease of Accessibility [#2]
+- Ease of Accessibility [#2](https://github.com/JLatham85/gloomhaven-universe/issues/2)
 
-- Consitency throughout Site [#3]
+- Consitency throughout Site [#3](https://github.com/JLatham85/gloomhaven-universe/issues/3)
 
-- Introduction Sessions [#4]
+- Introduction Sessions [#4](https://github.com/JLatham85/gloomhaven-universe/issues/4)
 
-- Meet Up Sessions [#5]
+- Meet Up Sessions [#5](https://github.com/JLatham85/gloomhaven-universe/issues/5)
 
-- Site option to change languages [#6]
+- Site option to change languages [#6](https://github.com/JLatham85/gloomhaven-universe/issues/6)
 
 [Back to Contents](#contents)
 
