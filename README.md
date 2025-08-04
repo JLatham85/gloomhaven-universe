@@ -125,7 +125,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 #### **Buttons & Bugs Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad & Navbar Wireframes](<docs/wireframes/buttons-and-bugs-mobile-ipad.png>)
+- [Mobile, iPad Wireframes](<docs/wireframes/buttons-and-bugs-mobile-ipad.png>)
 
 - [Laptop Wireframe](<docs/wireframes/buttons-and-bugs-laptop.png>)
 
@@ -133,7 +133,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 #### **Gloomhaven Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad & Navbar Wireframes](<docs/wireframes/gloomhaven-mobile-ipad.png>)
+- [Mobile, iPad Wireframes](<docs/wireframes/gloomhaven-mobile-ipad.png>)
 
 - [Laptop Wireframe](<docs/wireframes/buttons-and-bugs-laptop.png>)
 
@@ -141,7 +141,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 #### **Frosthaven Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad & Navbar Wireframes](<docs/wireframes/frosthaven-mobile-ipad.png>)
+- [Mobile, iPad Wireframes](<docs/wireframes/frosthaven-mobile-ipad.png>)
 
 - [Laptop Wireframe](<docs/wireframes/frosthaven-laptop.png>)
 
@@ -149,7 +149,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 #### **Gloomhaven Online Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad & Navbar Wireframes](<docs/wireframes/gloomhaven-online-mobile-ipad.png>)
+- [Mobile, iPad Wireframes](<docs/wireframes/gloomhaven-online-mobile-ipad.png>)
 
 - [Laptop Wireframe](<docs/wireframes/gloomhaven-online-laptop.png>)
 
@@ -157,7 +157,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 #### **Events Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad & Navbar Wireframes](<docs/wireframes/events-mobile-ipad.png>)
+- [Mobile, iPad Wireframes](<docs/wireframes/events-mobile-ipad.png>)
 
 - [Laptop Wireframe](<docs/wireframes/events-laptop.png>)
 
@@ -165,7 +165,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 #### **Contacts Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad & Navbar Wireframes](<docs/wireframes/conatacts-mobile-ipad.png>)
+- [Mobile, iPad Wireframes](<docs/wireframes/conatacts-mobile-ipad.png>)
 
 - [Laptop Wireframe](<docs/wireframes/conatacts-laptop.png>)
 
@@ -185,7 +185,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 #### **404 Error Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad & Navbar Wireframes](<docs/wireframes/404-mobile-ipad.png>)
+- [Mobile, iPad Wireframes](<docs/wireframes/404-mobile-ipad.png>)
 
 - [Laptop Wireframe](<docs/wireframes/404-laptop.png>)
 
@@ -193,7 +193,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 #### **Under Construction Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad & Navbar Wireframes](<docs/wireframes/under-construction-mobile-ipad.png>)
+- [Mobile, iPad Wireframes](<docs/wireframes/under-construction-mobile-ipad.png>)
 
 - [Laptop Wireframe](<docs/wireframes/under-construction-laptop.png>)
 
