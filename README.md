@@ -117,85 +117,87 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 #### **Home Page Wireframes** <!--Create link to wireframe or copy and paste wireframe--> 
 
-- [Mobile, iPad & Navbar Wireframes](<./assets/images/Wireframes/Home Wireframe Mobile iPad Navbar.png>)
+- [Mobile, iPad & Navbar Wireframes](<docs/wireframes/home-wireframe-mobile-ipad-navbar.png>)
 
-- [Laptop Wireframe](<./assets/images/Wireframes/Home Wireframe Laptop.png>)
+- [Laptop Wireframe](<docs/wireframes/home-wireframe-laptop.png>)
 
-- [Desktop Wireframe](<./assets/images/Wireframes/Home Wireframe Desktop.png>)
+- [Desktop Wireframe](<docs/wireframes/home-wireframe-desktop.png>)
 
 #### **Buttons & Bugs Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad & Navbar Wireframes](<./assets/images/Wireframes/Buttons & Bugs Mobile iPad.png>)
+- [Mobile, iPad & Navbar Wireframes](<docs/wireframes/buttons-and-bugs-mobile-ipad.png>)
 
-- [Laptop Wireframe](<./assets/images/Wireframes/Buttons & Bugs Laptop.png>)
+- [Laptop Wireframe](<docs/wireframes/buttons-and-bugs-laptop.png>)
 
-- [Desktop Wireframe](<./assets/images/Wireframes/Buttons & Bugs Desktop.png>)
+- [Desktop Wireframe](<docs/wireframes/buttons-and-bugs-desktop.png>)
 
 #### **Gloomhaven Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad & Navbar Wireframes](<./assets/images/Wireframes/Gloomhaven Mobile iPad.png>)
+- [Mobile, iPad & Navbar Wireframes](<docs/wireframes/gloomhaven-mobile-ipad.png>)
 
-- [Laptop Wireframe](<./assets/images/Wireframes/Gloomhaven Laptop.png>)
+- [Laptop Wireframe](<docs/wireframes/buttons-and-bugs-laptop.png>)
 
-- [Desktop Wireframe](<./assets/images/Wireframes/Gloomhaven Desktop.png>)
+- [Desktop Wireframe](/docs/wireframes/buttons-and-bugs-desktop.png>)
 
 #### **Frosthaven Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad & Navbar Wireframes](<./assets/images/Wireframes/Frosthaven Mobile iPad.png>)
+- [Mobile, iPad & Navbar Wireframes](<docs/wireframes/frosthaven-mobile-ipad.png>)
 
-- [Laptop Wireframe](<./assets/images/Wireframes/Frosthaven Laptop.png>)
+- [Laptop Wireframe](<docs/wireframes/frosthaven-laptop.png>)
 
-- [Desktop Wireframe](<./assets/images/Wireframes/Frosthaven Desktop.png>)
+- [Desktop Wireframe](<docs/wireframes/frosthaven-desktop.png>)
 
 #### **Gloomhaven Online Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad & Navbar Wireframes](<./assets/images/Wireframes/Gloomhaven Online Mobile iPad.png>)
+- [Mobile, iPad & Navbar Wireframes](<docs/wireframes/gloomhaven-online-mobile-ipad.png>)
 
-- [Laptop Wireframe](<./assets/images/Wireframes/Gloomhaven Online Laptop.png>)
+- [Laptop Wireframe](<docs/wireframes/gloomhaven-online-laptop.png>)
 
-- [Desktop Wireframe](<./assets/images/Wireframes/Home Wireframe Desktop.png>)
+- [Desktop Wireframe](<docs/wireframes/gloomhaven-online-desktop.png>)
 
 #### **Events Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad & Navbar Wireframes](<./assets/images/Wireframes/Events Mobile iPad.png>)
+- [Mobile, iPad & Navbar Wireframes](<docs/wireframes/events-mobile-ipad.png>)
 
-- [Laptop Wireframe](<./assets/images/Wireframes/Events Laptop.png>)
+- [Laptop Wireframe](<docs/wireframes/events-laptop.png>)
 
-- [Desktop Wireframe](<./assets/images/Wireframes/Events Desktop.png>)
+- [Desktop Wireframe](<docs/wireframes/events-desktop.png>)
 
 #### **Contacts Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad & Navbar Wireframes](<./assets/images/Wireframes/Contacts Mobile iPad.png>)
+- [Mobile, iPad & Navbar Wireframes](<docs/wireframes/conatacts-mobile-ipad.png>)
 
-- [Laptop Wireframe](<./assets/images/Wireframes/Conatcts Laptop.png>)
+- [Laptop Wireframe](<docs/wireframes/conatacts-laptop.png>)
 
-- [Desktop Wireframe](<./assets/images/Wireframes/Contacts Desktop.png>)
+- [Desktop Wireframe](<docs/wireframes/conatacts-desktop.png>)
 
 #### **Form Pop Ups Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Meetup Form Wireframe](<./assets/images/Wireframes/Meet Up Form.png>)
+- [Meetup Form Wireframe](<docs/wireframes/form-meet-up.png>)
 
-- [Introduction Form Wireframe](<./assets/images/Wireframes/Introduction Form.png>)
+- [Introduction Form Wireframe](<docs/wireframes/form-introduction.png>)
+
+- [Success Form](<docs/wireframes/form-success.png>)
 
 - Feedback Form Part 1 & 2
-  - [Feedback Form Part 1 Wireframe](<./assets/images/Wireframes/Feedback Form Part 1.png>)
-  - [Feedback Form Part 2 Wireframe](<./assets/images/Wireframes/Feedback Form Part 2.png>)
+  - [Feedback Form Part 1 Wireframe](<docs/wireframes/form-feedback-part1.png>)
+  - [Feedback Form Part 2 Wireframe](<docs/wireframes/form-feedback-part2.png>)
 
 #### **404 Error Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad & Navbar Wireframes](<./assets/images/Wireframes/404 Mobile iPad.png>)
+- [Mobile, iPad & Navbar Wireframes](<docs/wireframes/404-mobile-ipad.png>)
 
-- [Laptop Wireframe](<./assets/images/Wireframes/404 Laptop.png>)
+- [Laptop Wireframe](<docs/wireframes/404-laptop.png>)
 
-- [Desktop Wireframe](<./assets/images/Wireframes/404 Desktop.png>)
+- [Desktop Wireframe](<docs/wireframes/404-desktop.png>)
 
 #### **Under Construction Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad & Navbar Wireframes](<./assets/images/Wireframes/Under Construciotn Mobile iPad.png>)
+- [Mobile, iPad & Navbar Wireframes](<docs/wireframes/under-construction-mobile-ipad.png>)
 
-- [Laptop Wireframe](<./assets/images/Wireframes/Under Construciotn Laptop.png>)
+- [Laptop Wireframe](<docs/wireframes/under-construction-laptop.png>)
 
-- [Desktop Wireframe](<./assets/images/Wireframes/Under Construciotn Desktop.png>)
+- [Desktop Wireframe](<docs/wireframes/under-construction-desktop.png>)
 
 </details >
 
@@ -222,13 +224,13 @@ I have decided to go with 3 different fonts to keep inline with boargaming theme
 
 The color scheme is based of the original Gloomhaven box to keep on theme with project. [Coolers](https://coolors.co/) was the website used for color pallette.
 
-- [Color Pallette](<./assets/images/Design/Colour Palette.png>)
+- [Color Palette](<docs/Design/color-palette.png>)
 
 <!--Comment - Where is this predetermined color for-->
 
 The below will display that I have used a contrast grid to make sure website is visually appearing but also accessible to all who will view, also I have noted the root CSS Variables I will be utilising. [Eight Shapes](https://contrast-grid.eightshapes.com/) was the website used for color pallette.
 
-- [Contrast Grid](<./assets/images/Design/Contrast Grid.png>)
+- [Contrast Grid](<docs/Design/contrast-grid.png>)
 
 - CSS Variables
 

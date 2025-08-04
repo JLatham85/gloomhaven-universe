@@ -93,10 +93,11 @@
   width: 100%;
   background-color: var(--primary-color);
   left: 0;
-  transition: background-color 0.1s ease;
+  transition: background-color 0.3s ease;
 }
 
 /* Position burger lines */
+
 .burger-rotate span:nth-child(1) {
   top: 0;
 }
