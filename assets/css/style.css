@@ -23,8 +23,9 @@
     height: auto;
 }
 
-#navbar, .navbar-toggler-icon {
-  color: orange;
+#navbar {
+  background-color: var(--bistre);
+  color: var(--dutch-white);
 }
 
 /* grid visualisation CSS for testing */
