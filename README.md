@@ -82,7 +82,17 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 ## User Stories<!--Use github project and use link-->
 
-[Github Project Board with User Stories](https://github.com/users/JLatham85/projects/3)
+- Understanding Gloomhaven [#1]
+
+- Ease of Accessibility [#2]
+
+- Consitency throughout Site [#3]
+
+- Introduction Sessions [#4]
+
+- Meet Up Sessions [#5]
+
+- Site option to change languages [#6]
 
 [Back to Contents](#contents)
 
