@@ -1,4 +1,3 @@
-/*Imported Google Fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald&family=Permanent+Marker&display=swap');
 
 /* CSS Variables Styles */
@@ -6,11 +5,11 @@
     --main-titles: "Anton", sans-serif;
     --sub-titles: "Permanent Marker", sans-serif;
     --main-body: "Oswald", sans-serif;
-    --primary-color: #dbd3ad; /* dutch white */
-    --secondary-color: #28160a; /* bistre */
-    --background-forms-unhovered-color: #513b22; /* cafe noir */
-    --background-hovered-color: #513125; /*captum motuum */
-    --highlight-color-header-footer: #966f51; /* raw umber */
+    --dutch-white: #dbd3ad; 
+    --bistre: #28160a; 
+    --cafe-noir: #513b22; /* background-forms-unhovered-color */
+    --captum-motuum: #513125; /* background-hovered-color */
+    --raw-umber: #966f51; /* highlight-color-header-footer */
 }
 
 /* Global Styles */
@@ -19,108 +18,19 @@
 
 /* Navbar Styles */
 
-#navbar {
-    background-color: var(--secondary-color); 
-    padding: 0;
-    border: none;
-}
-
-.nav-link {  
-    display:flex;
-    justify-content: flex-end;
-    background-color: var(--secondary-color); 
-    color: var(--primary-color);
-    font-family: var(--main-body);
-    padding: 0;
-}
-
-/* Prevent hover/focus from changing color */
-
-.navbar-nav .nav-link:hover,
-.navbar-nav .nav-link:focus {
-  color: var(--dutch-white) !important;
-}
-
-/* Change current page font in the navber */
-
-.navbar-nav .nav-link.active {
-  font-family: var(--sub-titles);
-  color: var(--primary-color) !important;
-  font-size: 1.2rem;
-  letter-spacing: 1px;
-}
-
-.navbar-collapse {
-    flex-basis: 50%;
-}
-
-.logo-nb {
+logo {
     width: 35px;
     height: auto;
-}
-
-/* Remove Bootstrap formatting from burger in navbar */
-
-.navbar-toggler {
-  border: none;
-  box-shadow: none;
-  outline: none;
-  padding: 0.5rem;
-  background-color: transparent;
-}
-
-/* Remove hover border or outline */
-.navbar-toggler:focus,
-.navbar-toggler:hover {
-  border: none;
-  box-shadow: none;
-  outline: none;
-}
-
-/* Navber burger without JS */
-
-.burger-rotate {
-  width: 30px;
-  height: 24px;
-  position: relative;
-  display: inline-block;
-  transition: transform 0.3s ease;
-}
-
-.burger-rotate span {
-  position: absolute;
-  height: 4px;
-  width: 100%;
-  background-color: var(--primary-color);
-  left: 0;
-  transition: background-color 0.3s ease;
-}
-
-/* Position burger lines */
-
-.burger-rotate span:nth-child(1) {
-  top: 0;
-}
-.burger-rotate span:nth-child(2) {
-  top: 10px;
-}
-.burger-rotate span:nth-child(3) {
-  top: 20px;
-}
-
-/* Rotate the whole burger when menu is open */
-.navbar-toggler[aria-expanded="true"] .burger-rotate {
-  transform: rotate(90deg);
 }
 
 /* grid visualisation CSS for testing */
 
 .container,
 .row {
-    border: 2px solid white;
+    border: 2px solid red;
 }
 
 .col-12 {
-    border: 2px solid white;
-    background-color: lightgray;
+    border: 2px solid black;
+    background-color: yellow;
 }
