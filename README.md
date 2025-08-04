@@ -224,13 +224,13 @@ I have decided to go with 3 different fonts to keep inline with boargaming theme
 
 The color scheme is based of the original Gloomhaven box to keep on theme with project. [Coolers](https://coolors.co/) was the website used for color pallette.
 
-- [Color Palette](<docs/Design/color-palette.png>)
+- [Color Palette](<docs/design/color-palette.png>)
 
 <!--Comment - Where is this predetermined color for-->
 
 The below will display that I have used a contrast grid to make sure website is visually appearing but also accessible to all who will view, also I have noted the root CSS Variables I will be utilising. [Eight Shapes](https://contrast-grid.eightshapes.com/) was the website used for color pallette.
 
-- [Contrast Grid](<docs/Design/contrast-grid.png>)
+- [Contrast Grid](<docs/design/contrast-grid.png>)
 
 - CSS Variables
 
