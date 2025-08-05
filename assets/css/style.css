@@ -14,6 +14,16 @@
 
 /* Global Styles */
 
+/* Header Styles */
+
+header h1 .image-text {
+    background: url(assets/images/plain-logo-no-background.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-clip: text;
+    color: transparent;
+}
+
 /* Button Styles */
 
 /* Navbar Styles */
