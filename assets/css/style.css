@@ -16,10 +16,14 @@
 
 /* Header Styles */
 
-header h1 .image-text {
-    background: url(assets/images/plain-logo-no-background.png);
+#header {
+    padding-top: 70px;
+}
+
+#header h1 .image-text {
+    font-family: var(--main-titles);
+    background: url(assets/images/test-image.png);
     background-size: contain;
-    background-repeat: no-repeat;
     background-clip: text;
     color: transparent;
 }
