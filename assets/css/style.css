@@ -28,6 +28,13 @@
   color: var(--dutch-white);
 }
 
+/* Footer Styles */
+
+#footer {
+  background-color: var(--bistre);
+  color: var(--dutch-white);
+}
+
 /* grid visualisation CSS for testing */
 
 .container,
