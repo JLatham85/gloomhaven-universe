@@ -20,7 +20,7 @@
     padding-top: 70px;
 }
 
-#header h1 .image-text {
+h1.image-text {
     font-family: var(--main-titles);
     background: url(assets/images/test-image.png);
     background-size: contain;
