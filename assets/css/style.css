@@ -14,17 +14,28 @@
 
 /* Global Styles */
 
+body {
+    font-family: var(--main-body);
+    background-color: var(--dutch-white);
+    color: var(--bistre);
+}
+
 /* Header Styles */
 
+/* This is to get header under navba */
 #header {
     padding-top: 70px;
+    background-color: var(--dutch-white);
 }
 
 h1.image-text {
     font-family: var(--main-titles);
-    background: url(assets/images/test-image.png);
-    background-size: contain;
-    background-clip: text;
+    background: url(/assets/images/test-image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-clip: text; /* Fixes potentiail issue with text not showing */
+    background-clip: text; /* Works with the websites not covered in the above */
     color: transparent;
 }
 
