@@ -20,6 +20,17 @@ body {
     color: var(--bistre);
 }
 
+/* Subtitle Style */
+h3 {
+    font-family: var(--sub-titles);
+    color: var(--bistre);
+}
+
+h5 {
+    font-family: var(--sub-titles);
+    color: var(--dutch-white);
+}
+
 /* Header Styles */
 
 /* This is to get header under navbar */
