@@ -30,13 +30,13 @@ body {
 
 h1.image-text {
     font-family: var(--main-titles);
-    background: url(./assets/images/test-image.png);
+    background: url('/gloomhaven-universe/assets/images/test-image.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-clip: text; /* Fixes potential issue with text not showing */
     background-clip: text; /* Works with the websites not covered in the above */
-    color: var(--bistre);
+    color: transparent;
 }
 
 /* Button Styles */
