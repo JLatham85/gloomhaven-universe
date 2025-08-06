@@ -22,7 +22,7 @@ body {
 
 /* Header Styles */
 
-/* This is to get header under navba */
+/* This is to get header under navbar */
 #header {
     padding-top: 70px;
     background-color: var(--dutch-white);
@@ -30,11 +30,11 @@ body {
 
 h1.image-text {
     font-family: var(--main-titles);
-    background: url(/assets/images/test-image.png);
+    background: url(./assets/images/test-image.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    -webkit-background-clip: text; /* Fixes potentiail issue with text not showing */
+    -webkit-background-clip: text; /* Fixes potential issue with text not showing */
     background-clip: text; /* Works with the websites not covered in the above */
     color: transparent;
 }
