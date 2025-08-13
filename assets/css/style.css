@@ -50,6 +50,30 @@ h1.image-text {
     color: transparent;
 }
 
+/* Card Styles */
+
+.card {
+    background-color: var(--bistre);
+    color: var(--dutch-white);    
+    border-radius: .5em;
+    margin: .5em;    
+}
+
+.card-body {
+    padding: .25em;
+}
+
+.card-title {
+    font-family: var(--main-body);    
+}
+
+/* Section Information Grid */
+
+.information-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+  
 /* Button Styles */
 
 /* Navbar Styles */
