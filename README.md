@@ -128,10 +128,13 @@ Visitors will have an option to join live sessions, provide feedback for site de
 #### **Home Page Wireframes** <!--Create link to wireframe or copy and paste wireframe--> 
 
 - [Mobile, iPad & Navbar Wireframes](<docs/wireframes/home-wireframe-mobile-ipad-navbar.png>)
+- [Version 2 Design due to flaws in version 1 for Mobile, iPad & Navbar Wireframe](<docs/wireframes/v2-home-wireframe-mobile-ipad-navbar.png>)
 
 - [Laptop Wireframe](<docs/wireframes/home-wireframe-laptop.png>)
+- [Version 2 Design due to flaws in version 1 for Laptop Wireframe](<docs/wireframes/v2-home-wireframe-laptop.png>)
 
 - [Desktop Wireframe](<docs/wireframes/home-wireframe-desktop.png>)
+- [Version 2 Design due to flaws in version 1 for Mobile, iPad & Navbar Wireframe](<docs/wireframes/v2-home-wireframe-desktop.png>)
 
 #### **Buttons & Bugs Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
