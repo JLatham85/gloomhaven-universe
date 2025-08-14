@@ -76,6 +76,14 @@ h1.image-text {
   
 /* Button Styles */
 
+.custom-button-style {
+    background-color: var(--cafe-noir);
+    color: var(--dutch-white);
+    border-radius: 0.5em;
+    padding: 0.5em 1em;
+    text-decoration: none;
+}
+
 /* Navbar Styles */
 
 .logo {
