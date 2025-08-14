@@ -171,7 +171,7 @@
               <img
                 src="assets/images/full-logo.png"
                 class="d-block w-100"
-                alt="Gloomhaven Online Home Page"
+                alt="Gloomhaven Online Box"
               />
             </div>
           </div>
@@ -196,7 +196,7 @@
         </div>
       </div>
       <!-- Why for home page-->
-      <div class="row justify-content-center">
+      <div class="row justify-content-center text-center mt-4">
         <div class="col-12">
           <h3>Why are we here ....</h3>
           <p>
@@ -210,51 +210,159 @@
     </header>
 
     <!-- Main section to hold the main function of the page-->
-    <main>
-      <!-- What for home page-->
-      <div class="row text-center">
-        <div class="col-12">
-          <h3>What do we do ....</h3>
+    <main id="main" class="container">
+      <div class="row justify-content-center">
+        <!-- What for home page-->
+        <div class="row text-center mt-4">
+          <div class="col-12">
+            <h3>What do we do ....</h3>
+          </div>
+          <!-- Carousel Linked-->
+          <div class="col-12 justify-content-center">
+            <div
+              id="carousel-home-what"
+              class="carousel slide"
+              data-bs-ride="true"
+            >
+              <div class="carousel-indicators">
+                <button
+                  type="button"
+                  data-bs-target="#carousel-home-what"
+                  data-bs-slide-to="0"
+                  class="active"
+                  aria-current="true"
+                  aria-label="Slide 1"
+                ></button>
+                <button
+                  type="button"
+                  data-bs-target="#carouselExampleIndicators"
+                  data-bs-slide-to="1"
+                  aria-label="Slide 2"
+                ></button>
+                <button
+                  type="button"
+                  data-bs-target="#carousel-home-what"
+                  data-bs-slide-to="2"
+                  aria-label="Slide 3"
+                ></button>
+                <button
+                  type="button"
+                  data-bs-target="#carousel-home-what"
+                  data-bs-slide-to="3"
+                  aria-label="Slide 4"
+                ></button>
+                <button
+                  type="button"
+                  data-bs-target="#carousel-home-what"
+                  data-bs-slide-to="4"
+                  aria-label="Slide 5"
+                ></button>
+                <button
+                  type="button"
+                  data-bs-target="#carousel-home-what"
+                  data-bs-slide-to="5"
+                  aria-label="Slide 6"
+                ></button>
+                <button
+                  type="button"
+                  data-bs-target="#carousel-home-what"
+                  data-bs-slide-to="6"
+                  aria-label="Slide 7"
+                ></button>
+              </div>
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <a href="buttons-and-bugs.html">
+                    <img
+                      src="assets/images/full-logo.png"
+                      class="d-block w-100"
+                      alt="Buttons and Bugs Icon"
+                    />
+                  </a>
+                </div>
+                <div class="carousel-item">
+                  <a href="gloomhaven.html">
+                    <img
+                      src="assets/images/full-logo.png"
+                      class="d-block w-100"
+                      alt="Gloomhaven Icon"
+                    />
+                  </a>
+                </div>
+                <div class="carousel-item">
+                  <a href="frosthaven.html">
+                    <img
+                      src="assets/images/full-logo.png"
+                      class="d-block w-100"
+                      alt="Frosthaven Icon"
+                    />
+                  </a>
+                </div>
+                <div class="carousel-item">
+                  <a href="gloomhaven-online.html">
+                    <img
+                      src="assets/images/full-logo.png"
+                      class="d-block w-100"
+                      alt="Gloomhaven Online Icon"
+                    />
+                  </a>
+                </div>
+                <div class="carousel-item">
+                  <a href="events.html">
+                    <img
+                      src="assets/images/full-logo.png"
+                      class="d-block w-100"
+                      alt="Events Icon"
+                    />
+                  </a>
+                </div>
+                <div class="carousel-item">
+                  <a href="contacts.html">
+                    <img
+                      src="assets/images/full-logo.png"
+                      class="d-block w-100"
+                      alt="Contacts Icon"
+                    />
+                  </a>
+                </div>
+                <div class="carousel-item">
+                  <a href="faqs.html">
+                    <img
+                      src="assets/images/full-logo.png"
+                      class="d-block w-100"
+                      alt="FAQs Icon"
+                    />
+                  </a>
+                </div>
+              </div>
+              <button
+                class="carousel-control-prev"
+                type="button"
+                data-bs-target="#carousel-home"
+                data-bs-slide="prev"
+              >
+                <span
+                  class="carousel-control-prev-icon"
+                  aria-hidden="true"
+                ></span>
+                <span class="visually-hidden">Previous</span>
+              </button>
+              <button
+                class="carousel-control-next"
+                type="button"
+                data-bs-target="#carousel-home"
+                data-bs-slide="next"
+              >
+                <span
+                  class="carousel-control-next-icon"
+                  aria-hidden="true"
+                ></span>
+                <span class="visually-hidden">Next</span>
+              </button>
+            </div>
+          </div>
         </div>
       </div>
-      <!-- Grid section -->
-      <section id="home-grid" class="information-grid">
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title text-center fs-6">Buttons and Bugs</h5>
-          </div>
-        </div>
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title text-center fs-6">Gloomhaven</h5>
-          </div>
-        </div>
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title text-center fs-6">Frosthaven</h5>
-          </div>
-        </div>
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title text-center fs-6">Gloomhaven Online</h5>
-          </div>
-        </div>
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title text-center fs-6">Events</h5>
-          </div>
-        </div>
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title text-center fs-6">Contacts</h5>
-          </div>
-        </div>
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title text-center fs-6">FAQs</h5>
-          </div>
-        </div>
-      </section>
     </main>
 
     <!-- Footer -->
