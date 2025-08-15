@@ -95,7 +95,7 @@
               <a class="nav-link" href="contact.html">Contact</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="faqs.html">FAQs</a>
+              <a class="nav-link" href="under-maintenance.html">FAQs</a>
             </li>
           </ul>
         </div>
@@ -106,9 +106,9 @@
     <header id="header" class="container">
       <div class="row justify-content-center">
         <!-- Background Title Buttons and Bugs-->
-        <div class="col-12">
+        <div class="col-12 text-center">
           <h1 class="display-1 uppercase text-center image-text">
-            Introduction Bookings
+            Introduction Bookings Form
           </h1>
           <p>
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum
@@ -123,6 +123,110 @@
     <!-- Main section to hold the main function of the page-->
     <main>
       <!-- Bookings Introduction Form -->
+      <section id="booking-intro" class="container">
+        <div class="row justify-content-center">
+          <div class="col-12">
+            <form action="success.html" method="get">
+              <div class="row">
+                <div class="col-12 mb-4">
+                  <label for="which-game-intro" class="form-label"
+                    >Which Game</label
+                  >
+                  <select
+                    id="which-game-intro"
+                    class="form-select"
+                    name="which-game-intro"
+                    required
+                  >
+                    <option value="" selected>Choices</option>
+                    <option value="buttons-and-bugs">Buttons and Bugs</option>
+                    <option value="gloomhaven">Gloomhaven</option>
+                    <option value="retro-night">Frosthaven</option>
+                    <option value="tournament">Gloomhaven Online</option>
+                  </select>
+                </div>
+                <div class="col-12 mb-4">
+                  <label for="which-day-intro" class="form-label"
+                    >Which Day</label
+                  >
+                  <select
+                    id="which-day-intro"
+                    class="form-select"
+                    name="which-day-intro"
+                    required
+                  >
+                    <option value="" selected>Choices</option>
+                    <option value="Monday">Monday</option>
+                    <option value="Tuesday">Tuesday</option>
+                    <option value="Wednesday">Wednesday</option>
+                    <option value="Thursday">Thursday</option>
+                    <option value="Friday">Friday</option>
+                    <option value="Saturday">Saturday</option>
+                  </select>
+                  <div class="form-check my-4">
+                    <input
+                      class="form-check-input"
+                      type="checkbox"
+                      value=""
+                      id="am-intro"
+                    />
+                    <label class="am-intro-label" for="am-intro">
+                      AM Time Slot
+                    </label>
+                  </div>
+                  <div class="form-check">
+                    <input
+                      class="form-check-input"
+                      type="checkbox"
+                      value=""
+                      id="pm-intro"
+                    />
+                    <label class="form-check-label" for="pm-intro">
+                      PM Time Slot
+                    </label>
+                  </div>
+                </div>
+                <div class="col-12 mb-4">
+                  <label for="name" class="form-label">Full Name</label>
+                  <input
+                    class="form-control"
+                    id="name"
+                    name="name"
+                    type="text"
+                    required
+                  />
+                </div>
+                <div class="col-12 mb-4">
+                  <label for="contact-no" class="form-label">Contact No</label>
+                  <input
+                    class="form-control"
+                    id="contact-no"
+                    name="contact-no"
+                    type="number"
+                    required
+                  />
+                </div>
+                <div class="col-12 mb-4">
+                  <label for="email-intro" class="form-label"
+                    >Email Address</label
+                  >
+                  <input
+                    class="form-control"
+                    id="email-intro"
+                    name="email-intro"
+                    type="email"
+                    required
+                  />
+                </div>
+              </div>
+
+              <button type="submit" class="col-12 btn custom-button-style mb-4">
+                Submit
+              </button>
+            </form>
+          </div>
+        </div>
+      </section>
     </main>
 
     <!-- Footer -->
