@@ -52,7 +52,7 @@ h1.image-text {
 
 h1.image-text-buttons-and-bugs {
     font-family: var(--main-titles);
-    background: url('/gloomhaven-universe/assets/images/bab-bgtitle.webp');
+    background: url('../assets/images/bab-bgtitle.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
