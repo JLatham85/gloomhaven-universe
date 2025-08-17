@@ -41,7 +41,40 @@ h5 {
 
 h1.image-text {
     font-family: var(--main-titles);
-    background: url('/gloomhaven-universe/assets/images/test-image.png');
+    background: url('/gloomhaven-universe/assets/images/generic-bg-title.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-clip: text; /* Fixes potential issue with text not showing */
+    background-clip: text; /* Works with the websites not covered in the above */
+    color: transparent;
+}
+
+.title-buttons-and-bugs {
+    font-family: var(--main-titles);
+    background: url('/gloomhaven-universe/assets/images/bab-bgtitle.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-clip: text; /* Fixes potential issue with text not showing */
+    background-clip: text; /* Works with the websites not covered in the above */
+    color: transparent;
+}
+
+.title-gloomhaven {
+    font-family: var(--main-titles);
+    background: url('/gloomhaven-universe/assets/images/gh-bgtitle.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-clip: text; /* Fixes potential issue with text not showing */
+    background-clip: text; /* Works with the websites not covered in the above */
+    color: transparent;
+}
+
+.title-frosthaven {
+    font-family: var(--main-titles);
+    background: url('/gloomhaven-universe/assets/images/fh-bgtitle.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
