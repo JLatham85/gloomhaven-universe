@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="Gloomhaven Universe, your ultimate gloomhaven guide!  Perfect for first timers, newbies, veterans and gatherings whether that be students all the way up to care home groups. Come join us for your next epic boardgame"
+      content="Gloomhaven Universe, place to be for booking introduction sessions!  Perfect for first timers, newbies, veterans and gatherings"
     />
 
     <!-- Logo generated Favicons done by favicon.io -->
@@ -38,7 +38,7 @@
     <!-- CSS Stylesheet Link -->
     <link rel="stylesheet" href="assets/css/style.css" />
 
-    <title>Gloomhaven Universe | Feedback</title>
+    <title>Gloomhaven Universe | Bookings Introduction</title>
   </head>
 
   <body class="d-flex flex-column min-vh-100">
@@ -95,7 +95,7 @@
               <a class="nav-link" href="contact.html">Contact</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="faqs.html">FAQs</a>
+              <a class="nav-link" href="under-maintenance.html">FAQs</a>
             </li>
           </ul>
         </div>
@@ -106,13 +106,14 @@
     <header id="header" class="container">
       <div class="row justify-content-center">
         <!-- Background Title Buttons and Bugs-->
-        <div class="col-12">
-          <h1 class="display-1 uppercase text-center image-text">Feedback</h1>
+        <div class="col-12 text-center">
+          <h1 class="display-1 uppercase text-center image-text">
+            Feedback Form
+          </h1>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum
-            quo id, laborum, accusamus numquam fugiat eaque quia cumque
-            asperiores nam facilis? Minima quam, at amet nam iure soluta
-            doloremque voluptatem.
+            Your journey through our digital realm matters. Help us refine the
+            scrolls, polish the portals, and enchant the experience for future
+            adventurers.
           </p>
         </div>
       </div>
@@ -121,6 +122,375 @@
     <!-- Main section to hold the main function of the page-->
     <main>
       <!-- Bookings Introduction Form -->
+      <section id="booking-intro" class="container">
+        <div class="row justify-content-center">
+          <div class="col-12">
+            <form action="success.html" method="get">
+              <div class="row">
+                <div class="col-12 mb-4">
+                  <label for="name" class="form-label">Full Name</label>
+                  <input
+                    class="form-control"
+                    id="name"
+                    name="name"
+                    type="text"
+                    required
+                  />
+                </div>
+                <div class="col-12 mb-4">
+                  <label for="contact-no" class="form-label">Contact No</label>
+                  <input
+                    class="form-control"
+                    id="contact-no"
+                    name="contact-no"
+                    type="number"
+                    required
+                  />
+                </div>
+                <div class="col-12 mb-4">
+                  <label for="email-intro" class="form-label"
+                    >Email Address</label
+                  >
+                  <input
+                    class="form-control"
+                    id="email-intro"
+                    name="email-intro"
+                    type="email"
+                    required
+                  />
+                </div>
+                <div class="col-12 mb-4">
+                  <label for="navigating" class="form-label"
+                    >Was navigating the website easy?</label
+                  >
+                  <select class="form-select" aria-label="Rating" required>
+                    <option selected>Select Rating 1 = Poor 5 = Awesome</option>
+                    <option value="lostinthefog">1. Lost in the Fog</option>
+                    <option value="sluggishtrolls">2. Sluggish Trolls</option>
+                    <option value="wanderingadept">3. Wandering Adept</option>
+                    <option value="wellforgedpath">4. Well Forged Path</option>
+                    <option value="mythicperfection">
+                      5. Mythic Perfection
+                    </option>
+                  </select>
+                  <div class="col-12 mb-2">
+                    <label for="briefdescription" class="form-label"></label>
+                    <textarea
+                      class="form-control"
+                      rows="6"
+                      id="briefdescription"
+                      name="briefdescription"
+                      placeholder="If anything less than Well Forged Path, please provide a brief description of your experience"
+                      required
+                    ></textarea>
+                  </div>
+                </div>
+                <div class="col-12 mb-4">
+                  <label for="color-scheme" class="form-label"
+                    >Was the colour scheme appealing and comfortable when
+                    navigating the website?</label
+                  >
+                  <select class="form-select" aria-label="Rating" required>
+                    <option selected>Select Rating 1 = Poor 5 = Awesome</option>
+                    <option value="lostinthefog">1. Lost in the Fog</option>
+                    <option value="sluggishtrolls">2. Sluggish Trolls</option>
+                    <option value="wanderingadept">3. Wandering Adept</option>
+                    <option value="wellforgedpath">4. Well Forged Path</option>
+                    <option value="mythicperfection">
+                      5. Mythic Perfection
+                    </option>
+                  </select>
+                  <div class="col-12 mb-2">
+                    <label for="briefdescription" class="form-label"></label>
+                    <textarea
+                      class="form-control"
+                      rows="6"
+                      id="briefdescription"
+                      name="briefdescription"
+                      placeholder="If anything less than Well Forged Path, please provide a brief description of your experience"
+                      required
+                    ></textarea>
+                  </div>
+                </div>
+                <div class="col-12">
+                  <label for="color-scheme" class="form-label"
+                    >Was the colour scheme appealing and comfortable when
+                    navigating the website?</label
+                  >
+                  <div class="row">
+                    <div class="col-5 form-check ms-3">
+                      <input
+                        class="form-check-input"
+                        type="checkbox"
+                        value=""
+                        id="radio-button-yes"
+                      />
+                      <label
+                        class="radio-button-yes-label"
+                        for="radio-button-yes"
+                      >
+                        Yes
+                      </label>
+                    </div>
+                    <div class="col-5 form-check">
+                      <input
+                        class="form-check-input"
+                        type="checkbox"
+                        value=""
+                        id="radio-button-no"
+                      />
+                      <label
+                        class="radio-button-no-label"
+                        for="radio-button-no"
+                      >
+                        No
+                      </label>
+                    </div>
+                  </div>
+                  <div class="col-12 mb-2">
+                    <label for="briefdescription" class="form-label"></label>
+                    <textarea
+                      class="form-control"
+                      rows="6"
+                      id="briefdescription"
+                      name="briefdescription"
+                      placeholder="If no, please provide a brief description of your experience"
+                      required
+                    ></textarea>
+                  </div>
+                </div>
+                <div class="col-12">
+                  <label for="faulty-links" class="form-label"
+                    >Did you come across any faulty links?</label
+                  >
+                  <div class="row">
+                    <div class="col-5 form-check ms-3">
+                      <input
+                        class="form-check-input"
+                        type="checkbox"
+                        value=""
+                        id="radio-button-yes"
+                      />
+                      <label
+                        class="radio-button-yes-label"
+                        for="radio-button-yes"
+                      >
+                        Yes
+                      </label>
+                    </div>
+                    <div class="col-5 form-check">
+                      <input
+                        class="form-check-input"
+                        type="checkbox"
+                        value=""
+                        id="radio-button-no"
+                      />
+                      <label
+                        class="radio-button-no-label"
+                        for="radio-button-no"
+                      >
+                        No
+                      </label>
+                    </div>
+                  </div>
+                  <div class="col-12 mb-2">
+                    <label for="briefdescription" class="form-label"></label>
+                    <textarea
+                      class="form-control"
+                      rows="6"
+                      id="briefdescription"
+                      name="briefdescription"
+                      placeholder="If no, please provide a brief description of your experience"
+                      required
+                    ></textarea>
+                  </div>
+                </div>
+                <div class="col-12">
+                  <label for="features" class="form-label"
+                    >Were there any features you did not like?</label
+                  >
+                  <div class="row">
+                    <div class="col-5 form-check ms-3">
+                      <input
+                        class="form-check-input"
+                        type="checkbox"
+                        value=""
+                        id="radio-button-yes"
+                      />
+                      <label
+                        class="radio-button-yes-label"
+                        for="radio-button-yes"
+                      >
+                        Yes
+                      </label>
+                    </div>
+                    <div class="col-5 form-check">
+                      <input
+                        class="form-check-input"
+                        type="checkbox"
+                        value=""
+                        id="radio-button-no"
+                      />
+                      <label
+                        class="radio-button-no-label"
+                        for="radio-button-no"
+                      >
+                        No
+                      </label>
+                    </div>
+                  </div>
+                  <div class="col-12 mb-2">
+                    <label for="briefdescription" class="form-label"></label>
+                    <textarea
+                      class="form-control"
+                      rows="6"
+                      id="briefdescription"
+                      name="briefdescription"
+                      placeholder="If no, please provide a brief description of your experience"
+                      required
+                    ></textarea>
+                  </div>
+                </div>
+                <div class="col-12">
+                  <label for="clear-text" class="form-label"
+                    >Were the text elements clear, readable?</label
+                  >
+                  <div class="row">
+                    <div class="col-5 form-check ms-3">
+                      <input
+                        class="form-check-input"
+                        type="checkbox"
+                        value=""
+                        id="radio-button-yes"
+                      />
+                      <label
+                        class="radio-button-yes-label"
+                        for="radio-button-yes"
+                      >
+                        Yes
+                      </label>
+                    </div>
+                    <div class="col-5 form-check">
+                      <input
+                        class="form-check-input"
+                        type="checkbox"
+                        value=""
+                        id="radio-button-no"
+                      />
+                      <label
+                        class="radio-button-no-label"
+                        for="radio-button-no"
+                      >
+                        No
+                      </label>
+                    </div>
+                  </div>
+                  <div class="col-12 mb-2">
+                    <label for="briefdescription" class="form-label"></label>
+                    <textarea
+                      class="form-control"
+                      rows="6"
+                      id="briefdescription"
+                      name="briefdescription"
+                      placeholder="If no, please provide a brief description of your experience"
+                      required
+                    ></textarea>
+                  </div>
+                </div>
+                <div class="col-12">
+                  <label for="accessibility" class="form-label"
+                    >Are there any accessibility problems i.e. contrast, font
+                    size etc.?</label
+                  >
+                  <div class="row">
+                    <div class="col-5 form-check ms-3">
+                      <input
+                        class="form-check-input"
+                        type="checkbox"
+                        value=""
+                        id="radio-button-yes"
+                      />
+                      <label
+                        class="radio-button-yes-label"
+                        for="radio-button-yes"
+                      >
+                        Yes
+                      </label>
+                    </div>
+                    <div class="col-5 form-check">
+                      <input
+                        class="form-check-input"
+                        type="checkbox"
+                        value=""
+                        id="radio-button-no"
+                      />
+                      <label
+                        class="radio-button-no-label"
+                        for="radio-button-no"
+                      >
+                        No
+                      </label>
+                    </div>
+                  </div>
+                  <div class="col-12 mb-2">
+                    <label for="briefdescription" class="form-label"></label>
+                    <textarea
+                      class="form-control"
+                      rows="6"
+                      id="briefdescription"
+                      name="briefdescription"
+                      placeholder="If no, please provide a brief description of your experience"
+                      required
+                    ></textarea>
+                  </div>
+                </div>
+                <div class="col-12 mb-4">
+                  <label for="overall-website" class="form-label"
+                    >How would you rate the overall website (content,
+                    impressions, etc.)?</label
+                  >
+                  <select class="form-select" aria-label="Rating" required>
+                    <option selected>Select Rating 1 = Poor 5 = Awesome</option>
+                    <option value="lostinthefog">1. Lost in the Fog</option>
+                    <option value="sluggishtrolls">2. Sluggish Trolls</option>
+                    <option value="wanderingadept">3. Wandering Adept</option>
+                    <option value="wellforgedpath">4. Well Forged Path</option>
+                    <option value="mythicperfection">
+                      5. Mythic Perfection
+                    </option>
+                  </select>
+                  <div class="col-12 mb-2">
+                    <label for="briefdescription" class="form-label"></label>
+                    <textarea
+                      class="form-control"
+                      rows="6"
+                      id="briefdescription"
+                      name="briefdescription"
+                      placeholder="If anything less than Well Forged Path, please provide a brief description of your experience"
+                      required
+                    ></textarea>
+                  </div>
+                </div>
+                <div class="col-12 mb-3">
+                  <label for="suggestionbox" class="form-label"
+                    >Any Suggestions?</label
+                  >
+                  <textarea
+                    class="form-control"
+                    rows="6"
+                    id="suggestionbox"
+                    name="suggestionbox"
+                    placeholder="Please provide any mythic scrolls of wisdom you may have to improve the website"
+                  ></textarea>
+                </div>
+              </div>
+              <button type="submit" class="col-12 btn custom-button-style mb-4">
+                Submit
+              </button>
+            </form>
+          </div>
+        </div>
+      </section>
     </main>
 
     <!-- Footer -->
