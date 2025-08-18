@@ -26,6 +26,11 @@ h3 {
     color: var(--bistre);
 }
 
+h3.dutch-white {
+    font-family: var(--sub-titles);
+    color: var(--dutch-white);
+}
+
 h5 {
     font-family: var(--sub-titles);
     color: var(--dutch-white);
