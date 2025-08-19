@@ -22,7 +22,7 @@ body {
 
 /* Page Section Style */
 
-.bg-sectiontitle {
+.bg-section {
     background-color: var(--bistre);
     color: var(--dutch-white);
 }
@@ -91,6 +91,30 @@ h1.image-text {
 .card-title {
     font-family: var(--main-body);    
 }
+
+/* Accordion Styles */
+.accordion {
+    --bs-accordion-btn-bg: var(--bistre);
+    --bs-accordion-active-bg: var(--raw-umber);
+    --bs-accordion-btn-color: var(--dutch-white);
+    --bs-accordion-active-color: var(--dutch-white);      
+    --bs-accordion-bg: var(--raw-umber);
+    --bs-accordion-color: var(--dutch-white);
+    --bs-accordion-btn-focus-box-shadow: none;      
+}
+
+.accordion-item {
+    border: none;
+}
+
+.accordion-button:not(.collapsed){
+    box-shadow:none;
+}
+
+.accordion-button::after {
+  filter: brightness(0) saturate(100%) invert(94%) sepia(7%) saturate(500%) hue-rotate(10deg);
+}
+
 
 /* Button Styles */
 
