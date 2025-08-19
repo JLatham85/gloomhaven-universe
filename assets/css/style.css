@@ -20,6 +20,21 @@ body {
     color: var(--bistre);
 }
 
+/* Page Section Style */
+
+.bg-sectiontitle {
+    background-color: var(--bistre);
+    color: var(--dutch-white);
+}
+
+h2 {
+    font-family: var(--main-titles);
+    color: var(--dutch-white);
+    text-transform: uppercase;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
 /* Subtitle Style */
 h3 {
     font-family: var(--sub-titles);
@@ -52,39 +67,6 @@ h5 {
 h1.image-text {
     font-family: var(--main-titles);
     background: url('/gloomhaven-universe/assets/images/generic-bg-title.webp');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    -webkit-background-clip: text; /* Fixes potential issue with text not showing */
-    background-clip: text; /* Works with the websites not covered in the above */
-    color: transparent;
-}
-
-h1.image-text-buttons-and-bugs {
-    font-family: var(--main-titles);
-    background: url('/gloomhaven-universe/assets/images/bab-bgtitle.webp');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    -webkit-background-clip: text; /* Fixes potential issue with text not showing */
-    background-clip: text; /* Works with the websites not covered in the above */
-    color: transparent;
-}
-
-h1.image-text-gloomhaven {
-    font-family: var(--main-titles);
-    background: url('/gloomhaven-universe/assets/images/gh-bgtitle.webp');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    -webkit-background-clip: text; /* Fixes potential issue with text not showing */
-    background-clip: text; /* Works with the websites not covered in the above */
-    color: transparent;
-}
-
-h1.image-text-frosthaven {
-    font-family: var(--main-titles);
-    background: url('/gloomhaven-universe/assets/images/fh-bgtitle.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -139,14 +121,3 @@ h1.image-text-frosthaven {
   color: var(--dutch-white);
 }
 
-/* grid visualisation CSS for testing */
-
-/* .container,
-.row {
-    border: 2px solid red;
-}
-
-.col-12 {
-    border: 2px solid blue;
-    background-color: fuchsia;
-} */ 
