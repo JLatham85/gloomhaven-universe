@@ -44,6 +44,11 @@ h5 {
     background-color: var(--dutch-white);
 }
 
+.carousel-item > img {
+    width: 226px;
+    height: 226px;
+}
+
 h1.image-text {
     font-family: var(--main-titles);
     background: url('/gloomhaven-universe/assets/images/generic-bg-title.webp');
@@ -122,7 +127,7 @@ h1.image-text-frosthaven {
     height: auto;
 }
 
-#navbar {
+#navigation {
   background-color: var(--bistre);
   color: var(--dutch-white);
 }
