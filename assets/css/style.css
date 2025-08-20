@@ -169,7 +169,7 @@ tbody, td, tfoot, th, thead, tr {
 /* Gallery Styles */
 
 .gallery {
-  column-count: 3;
+  column-count: 2;
   column-gap: 0;
   max-width: 900px;
   margin: auto;
@@ -223,4 +223,32 @@ tbody, td, tfoot, th, thead, tr {
   color: var(--raw-umber); 
 }
 
+/* Media queries section */
 
+/* Medium Breakpoint (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .gallery {
+  column-count: 3;
+    }
+}
+
+/* Large Breakpoint (laptops, 992px and up) */
+@media (min-width: 992px) {
+        .gallery {
+  column-count: 3;
+    }
+}
+
+/* XLarge Breakpoint (desktops, 1200px and up) */
+@media (min-width: 1200px) {
+        .gallery {
+  column-count: 4;
+    }
+}
+
+/* Large Breakpoint (lg desktop, 1400px and up) */
+@media (min-width: 1400px) {
+        .gallery {
+  column-count: 5;
+    }
+}
