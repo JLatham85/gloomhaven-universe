@@ -44,7 +44,7 @@
   <body class="d-flex flex-column min-vh-100">
     <!-- Navbar -->
     <nav
-      id="navbar"
+      id="navigation"
       class="navbar navbar-expand-lg fixed-top"
       data-bs-theme="dark"
     >
@@ -60,42 +60,52 @@
           class="navbar-toggler"
           type="button"
           data-bs-toggle="collapse"
-          data-bs-target="#navbarNav"
-          aria-controls="navbarNav"
+          data-bs-target="#navigationcollapse"
+          aria-controls="navigationcollapse"
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
+        <div class="collapse navbar-collapse" id="navigationcollapse">
           <ul class="navbar-nav ms-auto">
             <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="index.html">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="buttons-and-bugs.html"
-                >Buttons and bugs</a
+              <a class="nav-link active" aria-current="page" href="index.html"
+                >Back to Top</a
               >
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="gloomhaven.html">Gloomhaven</a>
+              <a class="nav-link" href="index.html#buttons-and-bugs"
+                >Buttons and Bugs</a
+              >
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="frosthaven.html">Frosthaven</a>
+              <a class="nav-link" href="index.html#gloomhaven">Gloomhaven</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="gloomhaven-online.html"
+              <a class="nav-link" href="index.html#frosthaven">Frosthaven</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="index.html#gloomhaven-online"
                 >Gloomhaven Online</a
               >
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="events.html">Events</a>
+              <a class="nav-link" href="index.html#events">Events</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="contact.html">Contact</a>
+              <a class="nav-link" href="index.html#bookings-and-feedback"
+                >Bookings and Feedback</a
+              >
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="under-maintenance.html">FAQs</a>
+              <a class="nav-link" href="index.html#gallery">gallery</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="index.html#faqs">FAQs</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="index.html#contact">Contact</a>
             </li>
           </ul>
         </div>
@@ -225,9 +235,9 @@
     </main>
 
     <!-- Footer -->
-    <footer id="contact" class="mt-auto">
-      <div class="container">
-        <div class="row justify-content-center">
+    <footer id="contact" class="mt-3">
+      <div class="container-fluid">
+        <div class="row justify-content-center mt-2">
           <div class="col-12 text-center">
             <h5>Contact Us</h5>
             <p>
@@ -235,9 +245,92 @@
                 >Please do not hesitate to contact us whether it be for advice,
                 to be freindly, report a bug, suggest any improvements for the
                 site or anything else!</em
+              ><br />
+              <a href="#" data-bs-toggle="modal" data-bs-target="#contactmodal"
+                ><strong>Click Here</strong></a
               >
-              <a href="#contact">Click Here</a>
             </p>
+            <!-- Modal for contact-->
+            <div
+              class="modal fade"
+              id="contactmodal"
+              tabindex="-1"
+              aria-labelledby="contactmodallabel"
+              aria-hidden="true"
+            >
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div
+                    class="modal-header justify-content-center"
+                    data-bs-theme="dark"
+                  >
+                    <h5 class="modal-title text-center" id="contactmodallabel">
+                      Contact Form
+                    </h5>
+                    <button
+                      type="button"
+                      class="btn-close position-absolute end-0 me-3"
+                      data-bs-dismiss="modal"
+                      aria-label="Close"
+                    ></button>
+                  </div>
+                  <div class="modal-body">
+                    <form action="success.html" method="get">
+                      <div class="row">
+                        <div class="col-12 my-3">
+                          <label for="name" class="form-label">Full Name</label>
+                          <input
+                            class="form-control"
+                            id="name"
+                            name="name"
+                            type="text"
+                            required
+                          />
+                        </div>
+                        <div class="col-12 mb-4">
+                          <label for="email" class="form-label">Email</label>
+                          <input
+                            class="form-control"
+                            id="email"
+                            name="email"
+                            type="email"
+                            required
+                          />
+                        </div>
+                        <div class="col-12 mb-4">
+                          <label for="subject" class="form-label"
+                            >Subject</label
+                          >
+                          <input
+                            class="form-control"
+                            id="subject"
+                            name="subject"
+                            type="text"
+                            required
+                          />
+                        </div>
+                        <div class="col-12 mb-3">
+                          <label for="briefdescription" class="form-label"
+                            >Brief Description</label
+                          >
+                          <textarea
+                            class="form-control"
+                            rows="6"
+                            id="briefdescription"
+                            name="briefdescription"
+                            required
+                          ></textarea>
+                        </div>
+                      </div>
+
+                      <button type="submit" class="col-12 btn-btn-primary mb-3">
+                        Submit
+                      </button>
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </div>
             <div class="row">
               <!-- Address -->
               <div class="col-12">
@@ -257,24 +350,22 @@
                   hyggemindgamesgu@outlook.com
                 </p>
               </div>
-              <div class="col-12">
-                <p>
-                  <a href="https://www.facebook.com/hygge.mindgames"
-                    ><i class="fa-brands fa-facebook"></i
-                  ></a>
-                  <a href="https://www.instagram.com/hygge.mindgames/"
-                    ><i class="fa-brands fa-instagram"></i
-                  ></a>
-                  <a href="https://twitter.com/hygge_mindgames"
-                    ><i class="fa-brands fa-x-twitter"></i
-                  ></a>
-                  <a href="https://linkedin.com/hygge_mindgames"
-                    ><i class="fa-brands fa-square-linkedin"></i
-                  ></a>
-                  <a href="https://discord.com/hygge_mindgames"
-                    ><i class="fa-brands fa-discord"></i
-                  ></a>
-                </p>
+              <div class="col-12 mb-2 d-flex justify-content-evenly">
+                <a href="https://www.facebook.com/hygge.mindgames"
+                  ><i class="fa-brands fa-facebook"></i
+                ></a>
+                <a href="https://www.instagram.com/hygge.mindgames/"
+                  ><i class="fa-brands fa-instagram"></i
+                ></a>
+                <a href="https://twitter.com/hygge_mindgames"
+                  ><i class="fa-brands fa-x-twitter"></i
+                ></a>
+                <a href="https://linkedin.com/hygge_mindgames"
+                  ><i class="fa-brands fa-linkedin"></i
+                ></a>
+                <a href="https://discord.com/hygge_mindgames"
+                  ><i class="fa-brands fa-discord"></i
+                ></a>
               </div>
             </div>
           </div>
