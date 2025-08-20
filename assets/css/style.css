@@ -7,9 +7,9 @@
     --main-body: "Oswald", sans-serif;
     --dutch-white: #dbd3ad; 
     --bistre: #28160a; 
-    --cafe-noir: #513b22; /* background-forms-unhovered-color */
-    --captum-motuum: #513125; /* background-hovered-color */
-    --raw-umber: #966f51; /* highlight-color-header-footer */
+    --cafe-noir: #513b22; 
+    --captum-motuum: #513125; 
+    --raw-umber: #966f51; 
 }
 
 /* Global Styles */
@@ -128,18 +128,36 @@ tbody, td, tfoot, th, thead, tr {
     border: none;
 }
 
+/* Style for Nav Tabs Booking and Feedback Section */
+
+.nav-link {
+    color: var(--captum-motuum);    
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: var(--dutch-white);
+    background-color: var(--captum-motuum);
+    border-color: var(--captum-motuum);
+}
+
+/* Form Styles */
+
+.form-check .form-check-input {
+    float: none;
+    margin-left: -1.5em;
+}
 
 /* Button Styles */
 
 .btn-btn-primary {
     background-color: var(--captum-motuum);
+    border-color: var(--captum-motuum);
     color: var(--dutch-white);
-    border-radius: 0.5em;
-    padding: 0.5em 1em;
     text-decoration: none;
     padding: 12px 24px;
     font-size: 1.2rem;
     border-radius: 8px;
+    border: none;
 }
 
 .btn-btn-primary:hover {

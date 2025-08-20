@@ -1249,7 +1249,7 @@
               </tbody>
             </table>
             <div class="d-flex">
-              <a class="col-12 btn-btn-primary" href="#bookings-and-feedback"
+              <a class="col-12 btn-btn-primary" href="#intro-tab"
                 >Book Introduction</a
               >
             </div>
@@ -1299,7 +1299,7 @@
               </tbody>
             </table>
             <div class="d-flex">
-              <a class="col-12 btn-btn-primary" href="#bookings-and-feedback"
+              <a class="col-12 btn-btn-primary" href="#book-meetup"
                 >Book Meetup</a
               >
             </div>
@@ -1379,6 +1379,709 @@
         <div class="row justify-content-center text-center mt-4">
           <div class="bg-section">
             <h2>Booking and Feedback</h2>
+          </div>
+          <!-- Tab links for Bookings and Feedback Forms-->
+          <div class="col-12 mt-2">
+            <ul
+              class="nav nav-tabs justify-content-center mt-2"
+              id="bookings-and-feedback-tabs"
+              role="tablist"
+            >
+              <li class="nav-item" role="presentation">
+                <button
+                  class="nav-link active"
+                  id="intro-tab"
+                  data-bs-toggle="tab"
+                  data-bs-target="#book-intro"
+                  type="button"
+                  role="tab"
+                  aria-controls="book-intro"
+                  aria-selected="true"
+                >
+                  Book Intro
+                </button>
+              </li>
+              <li class="nav-item" role="presentation">
+                <button
+                  class="nav-link"
+                  id="meetup-tab"
+                  data-bs-toggle="tab"
+                  data-bs-target="#book-meetup"
+                  type="button"
+                  role="tab"
+                  aria-controls="book-meetup"
+                  aria-selected="false"
+                >
+                  Book Meetup
+                </button>
+              </li>
+              <li class="nav-item" role="presentation">
+                <button
+                  class="nav-link"
+                  id="feedback-tab"
+                  data-bs-toggle="tab"
+                  data-bs-target="#feedback"
+                  type="button"
+                  role="tab"
+                  aria-controls="feedback"
+                  aria-selected="false"
+                >
+                  Feedback
+                </button>
+              </li>
+            </ul>
+          </div>
+          <!-- Content linked to above tabs-->
+          <div class="tab-content" id="bookings-and-feedback-tabs-content">
+            <!-- Booking Introduction Form-->
+            <div
+              class="row tab-pane fade show active mt-2"
+              id="book-intro"
+              role="tabpanel"
+              aria-labelledby="intro-tab"
+            >
+              <div class="col-12">
+                <form action="success.html" method="get">
+                  <div class="row">
+                    <div class="col-12 mb-4">
+                      <label for="which-game-intro" class="form-label"
+                        >Which Game</label
+                      >
+                      <select
+                        id="which-game-intro"
+                        class="form-select"
+                        name="which-game-intro"
+                        required
+                      >
+                        <option value="" selected>Choices</option>
+                        <option value="buttons-and-bugs">
+                          Buttons and Bugs
+                        </option>
+                        <option value="gloomhaven">Gloomhaven</option>
+                        <option value="retro-night">Frosthaven</option>
+                        <option value="tournament">Gloomhaven Online</option>
+                      </select>
+                    </div>
+                    <div class="col-12 mb-4">
+                      <label for="which-day-intro" class="form-label"
+                        >Which Day</label
+                      >
+                      <select
+                        id="which-day-intro"
+                        class="form-select"
+                        name="which-day-intro"
+                        required
+                      >
+                        <option value="" selected>Choices</option>
+                        <option value="Monday">Monday</option>
+                        <option value="Tuesday">Tuesday</option>
+                        <option value="Wednesday">Wednesday</option>
+                        <option value="Thursday">Thursday</option>
+                        <option value="Friday">Friday</option>
+                        <option value="Saturday">Saturday</option>
+                      </select>
+                      <div class="row justify-content-center">
+                        <div class="col-6 form-check mt-4">
+                          <input
+                            class="form-check-input"
+                            type="checkbox"
+                            value=""
+                            id="am-intro"
+                          />
+                          <label class="am-intro-label" for="am-intro">
+                            AM Time Slot
+                          </label>
+                        </div>
+                        <div class="col-6 form-check mt-4">
+                          <input
+                            class="form-check-input"
+                            type="checkbox"
+                            value=""
+                            id="pm-intro"
+                          />
+                          <label class="form-check-label" for="pm-intro">
+                            PM Time Slot
+                          </label>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-12 mb-4">
+                      <label for="name" class="form-label">Full Name</label>
+                      <input
+                        class="form-control"
+                        id="name"
+                        name="name"
+                        type="text"
+                        required
+                      />
+                    </div>
+                    <div class="col-12 mb-4">
+                      <label for="contact-no" class="form-label"
+                        >Contact No</label
+                      >
+                      <input
+                        class="form-control"
+                        id="contact-no"
+                        name="contact-no"
+                        type="number"
+                        required
+                      />
+                    </div>
+                    <div class="col-12 mb-4">
+                      <label for="email-intro" class="form-label"
+                        >Email Address</label
+                      >
+                      <input
+                        class="form-control"
+                        id="email-intro"
+                        name="email-intro"
+                        type="email"
+                        required
+                      />
+                    </div>
+                  </div>
+
+                  <button type="submit" class="col-12 btn-btn-primary mb-4">
+                    Submit
+                  </button>
+                </form>
+              </div>
+            </div>
+            <!-- Booking Meetup Form-->
+            <div
+              class="row tab-pane fade show active mt-2"
+              id="book-meetup"
+              role="tabpanel"
+              aria-labelledby="meetup-tab"
+            >
+              <div class="col-12">
+                <form action="success.html" method="get">
+                  <div class="row">
+                    <div class="col-12 mb-4">
+                      <label for="which-game-meetup" class="form-label"
+                        >Which Game</label
+                      >
+                      <select
+                        id="which-game-meetup"
+                        class="form-select"
+                        name="which-game-meetup"
+                        required
+                      >
+                        <option value="" selected>Choices</option>
+                        <option value="buttons-and-bugs">
+                          Buttons and Bugs
+                        </option>
+                        <option value="gloomhaven">Gloomhaven</option>
+                        <option value="retro-night">Frosthaven</option>
+                        <option value="tournament">Gloomhaven Online</option>
+                      </select>
+                    </div>
+                    <div class="col-12 mb-4">
+                      <label for="which-day-intro" class="form-label"
+                        >Which Day</label
+                      >
+                      <select
+                        id="which-day-meetup"
+                        class="form-select"
+                        name="which-day-meetup"
+                        required
+                      >
+                        <option value="" selected>Choices</option>
+                        <option value="Monday">Monday</option>
+                        <option value="Tuesday">Tuesday</option>
+                        <option value="Wednesday">Wednesday</option>
+                        <option value="Thursday">Thursday</option>
+                        <option value="Friday">Friday</option>
+                        <option value="Saturday">Saturday</option>
+                      </select>
+                      <div class="form-check my-4">
+                        <input
+                          class="form-check-input"
+                          type="checkbox"
+                          value=""
+                          id="am-meetup"
+                        />
+                        <label class="am-intro-meetup" for="am-meetup">
+                          AM Time Slot
+                        </label>
+                      </div>
+                      <div class="form-check">
+                        <input
+                          class="form-check-input"
+                          type="checkbox"
+                          value=""
+                          id="pm-meetup"
+                        />
+                        <label class="form-check-label" for="pm-meetup">
+                          PM Time Slot
+                        </label>
+                      </div>
+                    </div>
+                    <div class="col-12 mb-4">
+                      <label for="name" class="form-label">Full Name</label>
+                      <input
+                        class="form-control"
+                        id="name"
+                        name="name"
+                        type="text"
+                        required
+                      />
+                    </div>
+                    <div class="col-12 mb-4">
+                      <label for="contact-no" class="form-label"
+                        >Contact No</label
+                      >
+                      <input
+                        class="form-control"
+                        id="contact-no"
+                        name="contact-no"
+                        type="number"
+                        required
+                      />
+                    </div>
+                    <div class="col-12 mb-4">
+                      <label for="email-intro" class="form-label"
+                        >Email Address</label
+                      >
+                      <input
+                        class="form-control"
+                        id="email-meetup"
+                        name="email-meetup"
+                        type="email"
+                        required
+                      />
+                    </div>
+                  </div>
+
+                  <button type="submit" class="col-12 btn-btn-primary mb-4">
+                    Submit
+                  </button>
+                </form>
+              </div>
+            </div>
+            <!-- Feedback Form-->
+            <div
+              class="row tab-pane fade show active mt-2"
+              id="feedback"
+              role="tabpanel"
+              aria-labelledby="feedback-tab"
+            >
+              <div class="col-12">
+                <form action="success.html" method="get">
+                  <div class="row">
+                    <div class="col-12 mb-4">
+                      <label for="name" class="form-label">Full Name</label>
+                      <input
+                        class="form-control"
+                        id="name"
+                        name="name"
+                        type="text"
+                        required
+                      />
+                    </div>
+                    <div class="col-12 mb-4">
+                      <label for="contact-no" class="form-label"
+                        >Contact No</label
+                      >
+                      <input
+                        class="form-control"
+                        id="contact-no"
+                        name="contact-no"
+                        type="number"
+                        required
+                      />
+                    </div>
+                    <div class="col-12 mb-4">
+                      <label for="email-intro" class="form-label"
+                        >Email Address</label
+                      >
+                      <input
+                        class="form-control"
+                        id="email-intro"
+                        name="email-intro"
+                        type="email"
+                        required
+                      />
+                    </div>
+                    <div class="col-12 mb-4">
+                      <label for="navigating" class="form-label"
+                        >Was navigating the website easy?</label
+                      >
+                      <select class="form-select" aria-label="Rating" required>
+                        <option selected>
+                          Select Rating 1 = Poor 5 = Awesome
+                        </option>
+                        <option value="lostinthefog">1. Lost in the Fog</option>
+                        <option value="sluggishtrolls">
+                          2. Sluggish Trolls
+                        </option>
+                        <option value="wanderingadept">
+                          3. Wandering Adept
+                        </option>
+                        <option value="wellforgedpath">
+                          4. Well Forged Path
+                        </option>
+                        <option value="mythicperfection">
+                          5. Mythic Perfection
+                        </option>
+                      </select>
+                      <div class="col-12 mb-2">
+                        <label
+                          for="briefdescription"
+                          class="form-label"
+                        ></label>
+                        <textarea
+                          class="form-control"
+                          rows="6"
+                          id="briefdescription"
+                          name="briefdescription"
+                          placeholder="If anything less than Well Forged Path, please provide a brief description of your experience"
+                          required
+                        ></textarea>
+                      </div>
+                    </div>
+                    <div class="col-12 mb-4">
+                      <label for="color-scheme" class="form-label"
+                        >Was the colour scheme appealing and comfortable when
+                        navigating the website?</label
+                      >
+                      <select class="form-select" aria-label="Rating" required>
+                        <option selected>
+                          Select Rating 1 = Poor 5 = Awesome
+                        </option>
+                        <option value="lostinthefog">1. Lost in the Fog</option>
+                        <option value="sluggishtrolls">
+                          2. Sluggish Trolls
+                        </option>
+                        <option value="wanderingadept">
+                          3. Wandering Adept
+                        </option>
+                        <option value="wellforgedpath">
+                          4. Well Forged Path
+                        </option>
+                        <option value="mythicperfection">
+                          5. Mythic Perfection
+                        </option>
+                      </select>
+                      <div class="col-12 mb-2">
+                        <label
+                          for="briefdescription"
+                          class="form-label"
+                        ></label>
+                        <textarea
+                          class="form-control"
+                          rows="6"
+                          id="briefdescription"
+                          name="briefdescription"
+                          placeholder="If anything less than Well Forged Path, please provide a brief description of your experience"
+                          required
+                        ></textarea>
+                      </div>
+                    </div>
+                    <div class="col-12">
+                      <label for="color-scheme" class="form-label"
+                        >Was the colour scheme appealing and comfortable when
+                        navigating the website?</label
+                      >
+                      <div class="row">
+                        <div class="col-5 form-check ms-3">
+                          <input
+                            class="form-check-input"
+                            type="checkbox"
+                            value=""
+                            id="radio-button-yes"
+                          />
+                          <label
+                            class="radio-button-yes-label"
+                            for="radio-button-yes"
+                          >
+                            Yes
+                          </label>
+                        </div>
+                        <div class="col-5 form-check">
+                          <input
+                            class="form-check-input"
+                            type="checkbox"
+                            value=""
+                            id="radio-button-no"
+                          />
+                          <label
+                            class="radio-button-no-label"
+                            for="radio-button-no"
+                          >
+                            No
+                          </label>
+                        </div>
+                      </div>
+                      <div class="col-12 mb-2">
+                        <label
+                          for="briefdescription"
+                          class="form-label"
+                        ></label>
+                        <textarea
+                          class="form-control"
+                          rows="6"
+                          id="briefdescription"
+                          name="briefdescription"
+                          placeholder="If no, please provide a brief description of your experience"
+                          required
+                        ></textarea>
+                      </div>
+                    </div>
+                    <div class="col-12">
+                      <label for="faulty-links" class="form-label"
+                        >Did you come across any faulty links?</label
+                      >
+                      <div class="row">
+                        <div class="col-5 form-check ms-3">
+                          <input
+                            class="form-check-input"
+                            type="checkbox"
+                            value=""
+                            id="radio-button-yes"
+                          />
+                          <label
+                            class="radio-button-yes-label"
+                            for="radio-button-yes"
+                          >
+                            Yes
+                          </label>
+                        </div>
+                        <div class="col-5 form-check">
+                          <input
+                            class="form-check-input"
+                            type="checkbox"
+                            value=""
+                            id="radio-button-no"
+                          />
+                          <label
+                            class="radio-button-no-label"
+                            for="radio-button-no"
+                          >
+                            No
+                          </label>
+                        </div>
+                      </div>
+                      <div class="col-12 mb-2">
+                        <label
+                          for="briefdescription"
+                          class="form-label"
+                        ></label>
+                        <textarea
+                          class="form-control"
+                          rows="6"
+                          id="briefdescription"
+                          name="briefdescription"
+                          placeholder="If no, please provide a brief description of your experience"
+                          required
+                        ></textarea>
+                      </div>
+                    </div>
+                    <div class="col-12">
+                      <label for="features" class="form-label"
+                        >Were there any features you did not like?</label
+                      >
+                      <div class="row">
+                        <div class="col-5 form-check ms-3">
+                          <input
+                            class="form-check-input"
+                            type="checkbox"
+                            value=""
+                            id="radio-button-yes"
+                          />
+                          <label
+                            class="radio-button-yes-label"
+                            for="radio-button-yes"
+                          >
+                            Yes
+                          </label>
+                        </div>
+                        <div class="col-5 form-check">
+                          <input
+                            class="form-check-input"
+                            type="checkbox"
+                            value=""
+                            id="radio-button-no"
+                          />
+                          <label
+                            class="radio-button-no-label"
+                            for="radio-button-no"
+                          >
+                            No
+                          </label>
+                        </div>
+                      </div>
+                      <div class="col-12 mb-2">
+                        <label
+                          for="briefdescription"
+                          class="form-label"
+                        ></label>
+                        <textarea
+                          class="form-control"
+                          rows="6"
+                          id="briefdescription"
+                          name="briefdescription"
+                          placeholder="If no, please provide a brief description of your experience"
+                          required
+                        ></textarea>
+                      </div>
+                    </div>
+                    <div class="col-12">
+                      <label for="clear-text" class="form-label"
+                        >Were the text elements clear, readable?</label
+                      >
+                      <div class="row">
+                        <div class="col-5 form-check ms-3">
+                          <input
+                            class="form-check-input"
+                            type="checkbox"
+                            value=""
+                            id="radio-button-yes"
+                          />
+                          <label
+                            class="radio-button-yes-label"
+                            for="radio-button-yes"
+                          >
+                            Yes
+                          </label>
+                        </div>
+                        <div class="col-5 form-check">
+                          <input
+                            class="form-check-input"
+                            type="checkbox"
+                            value=""
+                            id="radio-button-no"
+                          />
+                          <label
+                            class="radio-button-no-label"
+                            for="radio-button-no"
+                          >
+                            No
+                          </label>
+                        </div>
+                      </div>
+                      <div class="col-12 mb-2">
+                        <label
+                          for="briefdescription"
+                          class="form-label"
+                        ></label>
+                        <textarea
+                          class="form-control"
+                          rows="6"
+                          id="briefdescription"
+                          name="briefdescription"
+                          placeholder="If no, please provide a brief description of your experience"
+                          required
+                        ></textarea>
+                      </div>
+                    </div>
+                    <div class="col-12">
+                      <label for="accessibility" class="form-label"
+                        >Are there any accessibility problems i.e. contrast,
+                        font size etc.?</label
+                      >
+                      <div class="row">
+                        <div class="col-5 form-check ms-3">
+                          <input
+                            class="form-check-input"
+                            type="checkbox"
+                            value=""
+                            id="radio-button-yes"
+                          />
+                          <label
+                            class="radio-button-yes-label"
+                            for="radio-button-yes"
+                          >
+                            Yes
+                          </label>
+                        </div>
+                        <div class="col-5 form-check">
+                          <input
+                            class="form-check-input"
+                            type="checkbox"
+                            value=""
+                            id="radio-button-no"
+                          />
+                          <label
+                            class="radio-button-no-label"
+                            for="radio-button-no"
+                          >
+                            No
+                          </label>
+                        </div>
+                      </div>
+                      <div class="col-12 mb-2">
+                        <label
+                          for="briefdescription"
+                          class="form-label"
+                        ></label>
+                        <textarea
+                          class="form-control"
+                          rows="6"
+                          id="briefdescription"
+                          name="briefdescription"
+                          placeholder="If no, please provide a brief description of your experience"
+                          required
+                        ></textarea>
+                      </div>
+                    </div>
+                    <div class="col-12 mb-4">
+                      <label for="overall-website" class="form-label"
+                        >How would you rate the overall website (content,
+                        impressions, etc.)?</label
+                      >
+                      <select class="form-select" aria-label="Rating" required>
+                        <option selected>
+                          Select Rating 1 = Poor 5 = Awesome
+                        </option>
+                        <option value="lostinthefog">1. Lost in the Fog</option>
+                        <option value="sluggishtrolls">
+                          2. Sluggish Trolls
+                        </option>
+                        <option value="wanderingadept">
+                          3. Wandering Adept
+                        </option>
+                        <option value="wellforgedpath">
+                          4. Well Forged Path
+                        </option>
+                        <option value="mythicperfection">
+                          5. Mythic Perfection
+                        </option>
+                      </select>
+                      <div class="col-12 mb-2">
+                        <label
+                          for="briefdescription"
+                          class="form-label"
+                        ></label>
+                        <textarea
+                          class="form-control"
+                          rows="6"
+                          id="briefdescription"
+                          name="briefdescription"
+                          placeholder="If anything less than Well Forged Path, please provide a brief description of your experience"
+                          required
+                        ></textarea>
+                      </div>
+                    </div>
+                    <div class="col-12 mb-3">
+                      <label for="suggestionbox" class="form-label"
+                        >Any Suggestions?</label
+                      >
+                      <textarea
+                        class="form-control"
+                        rows="6"
+                        id="suggestionbox"
+                        name="suggestionbox"
+                        placeholder="Please provide any mythic scrolls of wisdom you may have to improve the website"
+                      ></textarea>
+                    </div>
+                  </div>
+                  <button type="submit" class="col-12 btn btn-btn-primary mb-4">
+                    Submit
+                  </button>
+                </form>
+              </div>
+            </div>
           </div>
         </div>
       </section>
