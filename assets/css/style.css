@@ -95,10 +95,10 @@ h1.image-text {
 /* Accordion Styles */
 .accordion {
     --bs-accordion-btn-bg: var(--bistre);
-    --bs-accordion-active-bg: var(--raw-umber);
+    --bs-accordion-active-bg: var(--captum-motuum);
     --bs-accordion-btn-color: var(--dutch-white);
     --bs-accordion-active-color: var(--dutch-white);      
-    --bs-accordion-bg: var(--raw-umber);
+    --bs-accordion-bg: var(--captum-motuum);
     --bs-accordion-color: var(--dutch-white);
     --bs-accordion-btn-focus-box-shadow: none;      
 }
@@ -115,16 +115,39 @@ h1.image-text {
   filter: brightness(0) saturate(100%) invert(94%) sepia(7%) saturate(500%) hue-rotate(10deg);
 }
 
+/* Table Styles */
+
+.table {
+    --bs-table-bg: var(--bistre);
+    --bs-table-striped-bg: var(--captum-motuum);
+    --bs-table-color: var(--dutch-white);
+    --bs-table-striped-color: var(--dutch-white);      
+}
+
+tbody, td, tfoot, th, thead, tr {
+    border: none;
+}
+
 
 /* Button Styles */
 
-.custom-button-style {
-    background-color: var(--cafe-noir);
+.btn-btn-primary {
+    background-color: var(--captum-motuum);
     color: var(--dutch-white);
     border-radius: 0.5em;
     padding: 0.5em 1em;
     text-decoration: none;
+    padding: 12px 24px;
+    font-size: 1.2rem;
+    border-radius: 8px;
 }
+
+.btn-btn-primary:hover {
+    background-color: var(--raw-umber);
+    color: var(--dutch-white);
+    --bs-btn-hover-border-color: var(--raw-umber);
+}
+
 
 /* Navbar Styles */
 
