@@ -69,39 +69,41 @@
           <ul class="navbar-nav ms-auto">
             <li class="nav-item">
               <a class="nav-link active" aria-current="page" href="index.html"
-                >Home</a
+                >Back to Top</a
               >
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#buttons-and-bugs">Buttons and Bugs</a>
+              <a class="nav-link" href="index.html#buttons-and-bugs"
+                >Buttons and Bugs</a
+              >
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#gloomhaven">Gloomhaven</a>
+              <a class="nav-link" href="index.html#gloomhaven">Gloomhaven</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#frosthaven">Frosthaven</a>
+              <a class="nav-link" href="index.html#frosthaven">Frosthaven</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#gloomhaven-online"
+              <a class="nav-link" href="index.html#gloomhaven-online"
                 >Gloomhaven Online</a
               >
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#events">Events</a>
+              <a class="nav-link" href="index.html#events">Events</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#bookings-and-feedback"
+              <a class="nav-link" href="index.html#bookings-and-feedback"
                 >Bookings and Feedback</a
               >
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#gallery">gallery</a>
+              <a class="nav-link" href="index.html#gallery">gallery</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="under-maintenance.html">FAQs</a>
+              <a class="nav-link" href="index.html#faqs">FAQs</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#contact.html">Contact</a>
+              <a class="nav-link" href="index.html#contact">Contact</a>
             </li>
           </ul>
         </div>
@@ -2435,6 +2437,7 @@
         </div>
       </section>
     </main>
+
     <!-- Footer -->
     <footer id="contact" class="mt-3">
       <div class="container-fluid">
@@ -2586,5 +2589,16 @@
       src="https://kit.fontawesome.com/b17a12d02a.js"
       crossorigin="anonymous"
     ></script>
+    <!-- Javascript to close burger icon when link clicked-->
+    <script>
+      document.querySelectorAll(".nav-link").forEach((link) => {
+        link.addEventListener("click", () => {
+          const navbarCollapse = document.getElementById("navigationcollapse");
+          if (navbarCollapse.classList.contains("show")) {
+            new bootstrap.Collapse(navbarCollapse).hide();
+          }
+        });
+      });
+    </script>
   </body>
 </html>
