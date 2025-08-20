@@ -183,6 +183,17 @@ tbody, td, tfoot, th, thead, tr {
   break-inside: avoid;  
 }
 
+/* Modal Style */
+
+.modal-body {
+    background-color: var(--bistre);
+    color: var(--dutch-white);
+}
+
+.modal-header {
+    background-color: var(--bistre);
+    border: 0;
+}
 
 /* Navbar Styles */
 
@@ -198,8 +209,17 @@ tbody, td, tfoot, th, thead, tr {
 
 /* Footer Styles */
 
-#contact {
+#contact{
   background-color: var(--bistre);
   color: var(--dutch-white);
+}
+
+#contact a {
+  color:var(--dutch-white);
+  text-decoration: none;
+}
+
+#contact a:hover {
+  color: var(--raw-umber); 
 }
 
