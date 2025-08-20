@@ -169,7 +169,7 @@ tbody, td, tfoot, th, thead, tr {
 /* Gallery Styles */
 
 .gallery {
-  column-count: 2;
+  column-count: 3;
   column-gap: 0;
   max-width: 900px;
   margin: auto;
