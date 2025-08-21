@@ -417,10 +417,23 @@ I used [W3C Markup Validation Service](https://validator.w3.org/#validate_by_inp
 
 ![Test 2 - index.html](docs/design/index.html-test2.png)
 
+- Success page returned with no errors (Prettier kept adding trailing slashes back)
+
+![Test 1 - success.html](docs/design/sucess.html-test1.png)
+
+- 404 page returned with no errors (Prettier kept adding trailing slashes back)
+
+![Test 1 - 404.html](docs/design/404.html-test1.png)
 
 <!--Brief description of validators used, what was tested i.e. page amount, how many errors. Also Pic example-->
 
 ##### CSS:
+
+I used [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/). I have tested style.css.
+
+- CSS stylesheet checker returned no errors
+
+![Test 1 - css.style](docs/design/css.style-test1.png)
 
 <!--Brief description of validators used, what was tested i.e. page amount, how many errors. Also Pic example-->
 
