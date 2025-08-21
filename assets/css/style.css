@@ -224,6 +224,7 @@ legend {
 
 .navbar-nav .nav-link.active {
   color: var(--dutch-white) !important;
+  font-weight: bold;
 }
 
 

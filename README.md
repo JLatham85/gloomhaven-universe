@@ -444,6 +444,8 @@ I used [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/). I hav
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
+All features where manually tested on google chrome, safari. Also, manually tested o physical iPhone, iPad, Laptop and Desktop as well as devtools.
+
 </details> <!--Add above here for Feature Testing-->
 
 #### **Accessibility Testing**
@@ -452,6 +454,14 @@ I used [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/). I hav
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 ##### **Wave Tool** <!--Use wave tool to test and how, what, where, why & result if errors-->
+
+I wanted to make sure individuals with diverse needs could access the website comfortable so used [Wave Tool](https://wave.webaim.org/), please see below for results:
+
+- Test 1 
+
+![Test 1](docs/design/wave-test1.png)
+
+
 
 ##### **Color Contrast** <!--Use Color contrast accessibility tester. How, what, where, why & result if errors-->
 
