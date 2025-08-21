@@ -15,6 +15,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 <!--Insert img with the different platforms and how the screen is displayed-->
 
 ## Contents
+
 <!--Change contents to relevance this is just initial layout and add links to relevant section, use into collapse & expand lists for ease of navigation-->
 
 <details open> 
@@ -22,7 +23,7 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 ### Table of Contents
 
-- [User Goals](#user-goals) 
+- [User Goals](#user-goals)
 - [User Stories](#user-stories)
 - [Website Goals & Objectives](#website-goals-and-objective)
 - [Target Audience](#target-audience)
@@ -127,92 +128,92 @@ Visitors will have an option to join live sessions, provide feedback for site de
 <details open> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
-#### **Home Page Wireframes** <!--Create link to wireframe or copy and paste wireframe--> 
+#### **Home Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad & Navbar Wireframes](<docs/wireframes/home-wireframe-mobile-ipad-navbar.png>)
-- [Version 2 Design due to flaws in version 1 for Mobile, iPad & Navbar Wireframe](<docs/wireframes/v2-home-wireframe-mobile-ipad-navbar.png>)
+- [Mobile, iPad & Navbar Wireframes](docs/wireframes/home-wireframe-mobile-ipad-navbar.png)
+- [Version 2 Design due to flaws in version 1 for Mobile, iPad & Navbar Wireframe](docs/wireframes/v2-home-wireframe-mobile-ipad-navbar.png)
 
-- [Laptop Wireframe](<docs/wireframes/home-wireframe-laptop.png>)
-- [Version 2 Design due to flaws in version 1 for Laptop Wireframe](<docs/wireframes/v2-home-wireframe-laptop.png>)
+- [Laptop Wireframe](docs/wireframes/home-wireframe-laptop.png)
+- [Version 2 Design due to flaws in version 1 for Laptop Wireframe](docs/wireframes/v2-home-wireframe-laptop.png)
 
-- [Desktop Wireframe](<docs/wireframes/home-wireframe-desktop.png>)
-- [Version 2 Design due to flaws in version 1 for Mobile, iPad & Navbar Wireframe](<docs/wireframes/v2-home-wireframe-desktop.png>)
+- [Desktop Wireframe](docs/wireframes/home-wireframe-desktop.png)
+- [Version 2 Design due to flaws in version 1 for Mobile, iPad & Navbar Wireframe](docs/wireframes/v2-home-wireframe-desktop.png)
 
 #### **Buttons & Bugs Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad Wireframes](<docs/wireframes/buttons-and-bugs-mobile-ipad.png>)
+- [Mobile, iPad Wireframes](docs/wireframes/buttons-and-bugs-mobile-ipad.png)
 
-- [Laptop Wireframe](<docs/wireframes/buttons-and-bugs-laptop.png>)
+- [Laptop Wireframe](docs/wireframes/buttons-and-bugs-laptop.png)
 
-- [Desktop Wireframe](<docs/wireframes/buttons-and-bugs-desktop.png>)
+- [Desktop Wireframe](docs/wireframes/buttons-and-bugs-desktop.png)
 
 #### **Gloomhaven Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad Wireframes](<docs/wireframes/gloomhaven-mobile-ipad.png>)
+- [Mobile, iPad Wireframes](docs/wireframes/gloomhaven-mobile-ipad.png)
 
-- [Laptop Wireframe](<docs/wireframes/buttons-and-bugs-laptop.png>)
+- [Laptop Wireframe](docs/wireframes/buttons-and-bugs-laptop.png)
 
 - [Desktop Wireframe](/docs/wireframes/buttons-and-bugs-desktop.png>)
 
 #### **Frosthaven Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad Wireframes](<docs/wireframes/frosthaven-mobile-ipad.png>)
+- [Mobile, iPad Wireframes](docs/wireframes/frosthaven-mobile-ipad.png)
 
-- [Laptop Wireframe](<docs/wireframes/frosthaven-laptop.png>)
+- [Laptop Wireframe](docs/wireframes/frosthaven-laptop.png)
 
-- [Desktop Wireframe](<docs/wireframes/frosthaven-desktop.png>)
+- [Desktop Wireframe](docs/wireframes/frosthaven-desktop.png)
 
 #### **Gloomhaven Online Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad Wireframes](<docs/wireframes/gloomhaven-online-mobile-ipad.png>)
+- [Mobile, iPad Wireframes](docs/wireframes/gloomhaven-online-mobile-ipad.png)
 
-- [Laptop Wireframe](<docs/wireframes/gloomhaven-online-laptop.png>)
+- [Laptop Wireframe](docs/wireframes/gloomhaven-online-laptop.png)
 
-- [Desktop Wireframe](<docs/wireframes/gloomhaven-online-desktop.png>)
+- [Desktop Wireframe](docs/wireframes/gloomhaven-online-desktop.png)
 
 #### **Events Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad Wireframes](<docs/wireframes/events-mobile-ipad.png>)
+- [Mobile, iPad Wireframes](docs/wireframes/events-mobile-ipad.png)
 
-- [Laptop Wireframe](<docs/wireframes/events-laptop.png>)
+- [Laptop Wireframe](docs/wireframes/events-laptop.png)
 
-- [Desktop Wireframe](<docs/wireframes/events-desktop.png>)
+- [Desktop Wireframe](docs/wireframes/events-desktop.png)
 
 #### **Contacts Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad Wireframes](<docs/wireframes/conatacts-mobile-ipad.png>)
+- [Mobile, iPad Wireframes](docs/wireframes/conatacts-mobile-ipad.png)
 
-- [Laptop Wireframe](<docs/wireframes/conatacts-laptop.png>)
+- [Laptop Wireframe](docs/wireframes/conatacts-laptop.png)
 
-- [Desktop Wireframe](<docs/wireframes/conatacts-desktop.png>)
+- [Desktop Wireframe](docs/wireframes/conatacts-desktop.png)
 
 #### **Form Pop Ups Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Meetup Form Wireframe](<docs/wireframes/form-meet-up.png>)
+- [Meetup Form Wireframe](docs/wireframes/form-meet-up.png)
 
-- [Introduction Form Wireframe](<docs/wireframes/form-introduction.png>)
+- [Introduction Form Wireframe](docs/wireframes/form-introduction.png)
 
-- [Success Form](<docs/wireframes/form-success.png>)
+- [Success Form](docs/wireframes/form-success.png)
 
 - Feedback Form Part 1 & 2
-  - [Feedback Form Part 1 Wireframe](<docs/wireframes/form-feedback-part1.png>)
-  - [Feedback Form Part 2 Wireframe](<docs/wireframes/form-feedback-part2.png>)
+  - [Feedback Form Part 1 Wireframe](docs/wireframes/form-feedback-part1.png)
+  - [Feedback Form Part 2 Wireframe](docs/wireframes/form-feedback-part2.png)
 
 #### **404 Error Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad Wireframes](<docs/wireframes/404-mobile-ipad.png>)
+- [Mobile, iPad Wireframes](docs/wireframes/404-mobile-ipad.png)
 
-- [Laptop Wireframe](<docs/wireframes/404-laptop.png>)
+- [Laptop Wireframe](docs/wireframes/404-laptop.png)
 
-- [Desktop Wireframe](<docs/wireframes/404-desktop.png>)
+- [Desktop Wireframe](docs/wireframes/404-desktop.png)
 
 #### **Under Construction Page Wireframes** <!--Create link to wireframe or copy and paste wireframe-->
 
-- [Mobile, iPad Wireframes](<docs/wireframes/under-construction-mobile-ipad.png>)
+- [Mobile, iPad Wireframes](docs/wireframes/under-construction-mobile-ipad.png)
 
-- [Laptop Wireframe](<docs/wireframes/under-construction-laptop.png>)
+- [Laptop Wireframe](docs/wireframes/under-construction-laptop.png)
 
-- [Desktop Wireframe](<docs/wireframes/under-construction-desktop.png>)
+- [Desktop Wireframe](docs/wireframes/under-construction-desktop.png)
 
 </details >
 
@@ -227,11 +228,11 @@ Visitors will have an option to join live sessions, provide feedback for site de
 
 I have decided to go with 3 different fonts to keep inline with boargaming theme, please see below table for fonts and uses. I have chose these fonts to keep it clean and easy readable but to also have differentials and make the website pop a little. I will also have sans-serif font to back in case original choices fail.
 
-| Font | Utilisation |
-|------|:-----------:|
-| Anton | Main titles for pages |
-| Permanent Marker| Subtitles for pages|
-| Oswald | Main body of text|
+| Font             |      Utilisation      |
+| ---------------- | :-------------------: |
+| Anton            | Main titles for pages |
+| Permanent Marker |  Subtitles for pages  |
+| Oswald           |   Main body of text   |
 
 #### **Color Scheme** <!--Use a contrast site as well and mention this-->
 
@@ -239,29 +240,29 @@ I have decided to go with 3 different fonts to keep inline with boargaming theme
 
 The color scheme is based of the original Gloomhaven box to keep on theme with project. [Coolers](https://coolors.co/) was the website used for color pallette.
 
-- [Color Palette](<docs/design/color-palette.png>)
+- [Color Palette](docs/design/color-palette.png)
 
 <!--Comment - Where is this predetermined color for-->
 
 The below will display that I have used a contrast grid to make sure website is visually appearing but also accessible to all who will view, also I have noted the root CSS Variables I will be utilising. [Eight Shapes](https://contrast-grid.eightshapes.com/) was the website used for color pallette.
 
-- [Contrast Grid](<docs/design/contrast-grid.png>)
+- [Contrast Grid](docs/design/contrast-grid.png)
 
 - CSS Variables
 
 All the below where contrasted then selected for the different categories and will be used as the CSS Variables thoughtout my code. Assisted by [Webaim](https://webaim.org/resources/contrastchecker/) to get a visual prior to selection.
 
-| CSS Name | HEX | RGB | Comment |
-|----------|:---:|:---:|---------|
-| Cafe Noir | #513B22 | rgb(81 59 31)| Background for forms and unhovered buttons |
-| Dutch White | #DBD3AD | rgb(219 211 173) | Foreground for forms and unhovered buttons |
-| Captum motuum | #513125 | rgb(81 49 37) | Background for hovered buttons |
-| Dutch White | #DBD3AD | rgb(219 211 173) | Foreground for hovered buttons |
-| Bistre | #28160A | rgb(40 22 10) | Background for Header and Footer |
-| Dutch White | #DBD3AD | rgb(219 211 173) | Foreground for Header and Footer |
-| Raw umber | #966F51 | rgb(150 111 81) | Highlight color in Header footer for links |
-| Dutch White | #DBD3AD | rgb(219 211 173) | Main page Background |
-| Bistre | #28160A | rgb(40 22 10) | Main font color for main pages |
+| CSS Name      |   HEX   |       RGB        | Comment                                    |
+| ------------- | :-----: | :--------------: | ------------------------------------------ |
+| Cafe Noir     | #513B22 |  rgb(81 59 31)   | Background for forms and unhovered buttons |
+| Dutch White   | #DBD3AD | rgb(219 211 173) | Foreground for forms and unhovered buttons |
+| Captum motuum | #513125 |  rgb(81 49 37)   | Background for hovered buttons             |
+| Dutch White   | #DBD3AD | rgb(219 211 173) | Foreground for hovered buttons             |
+| Bistre        | #28160A |  rgb(40 22 10)   | Background for Header and Footer           |
+| Dutch White   | #DBD3AD | rgb(219 211 173) | Foreground for Header and Footer           |
+| Raw umber     | #966F51 | rgb(150 111 81)  | Highlight color in Header footer for links |
+| Dutch White   | #DBD3AD | rgb(219 211 173) | Main page Background                       |
+| Bistre        | #28160A |  rgb(40 22 10)   | Main font color for main pages             |
 
 #### **Images** <!--Insert any tools used to generate images and add which programme we used to render-->
 
@@ -271,14 +272,14 @@ A lot of the images were taken new by myself. However wikipedia was used for the
 
 The completed website will be responsive to the Bootstrap breakpoints, which will for all screen sizes. This is to assist all viewers to have a seemless experience within the website.
 
-| Break Point | Class infix | Dimensions |
-|-------------|:-----------:|------------|
-| X-Small | None | <576px |
-| Small | sm | >=576px |
-| Medium | md | >=768px |
-| Large | lg | >=992px |
-| Extra Large | xl | >=1200px |
-|Extra extra Large | xxl | >=1400px |
+| Break Point       | Class infix | Dimensions |
+| ----------------- | :---------: | ---------- |
+| X-Small           |    None     | <576px     |
+| Small             |     sm      | >=576px    |
+| Medium            |     md      | >=768px    |
+| Large             |     lg      | >=992px    |
+| Extra Large       |     xl      | >=1200px   |
+| Extra extra Large |     xxl     | >=1400px   |
 
 </details> <!--Insert before this details to include in Design choices-->
 
@@ -372,14 +373,14 @@ This universe was fully tested, I have used the table below to document any bugs
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
-| Bug Found | Resolved | How |
-|-----------|----------|-----|
-| Description boxes in feedback for were set to required now removed | Yes       | Removed the "required" component across all description boxes |
-| Navigation bar was not closing selecting a section | Yes | Added Javescript which helped the navbar recognise something had been selected in order for it to close. |
-| Background image to main title wasn't loading | Yes | The filepath was incorrect needed to add full filepath including gloomhaven-universe |
-| Changed layout from seperate pages to 1 scroll page | Yes | Userinter face changed as I felt there were too many clicks. Not very user freindly |
-| Card heights were fluctuating | Yes | Added d-flex to the component |
-| On bigger screen sizes cards were not wrapping and leaving blank columns | Yes | I was missing the div container class row in order for them to act as presumed |
+| Bug Found                                                                | Resolved | How                                                                                                      |
+| ------------------------------------------------------------------------ | -------- | -------------------------------------------------------------------------------------------------------- |
+| Description boxes in feedback for were set to required now removed       | Yes      | Removed the "required" component across all description boxes                                            |
+| Navigation bar was not closing selecting a section                       | Yes      | Added Javescript which helped the navbar recognise something had been selected in order for it to close. |
+| Background image to main title wasn't loading                            | Yes      | The filepath was incorrect needed to add full filepath including gloomhaven-universe                     |
+| Changed layout from seperate pages to 1 scroll page                      | Yes      | Userinter face changed as I felt there were too many clicks. Not very user freindly                      |
+| Card heights were fluctuating                                            | Yes      | Added d-flex to the component                                                                            |
+| On bigger screen sizes cards were not wrapping and leaving blank columns | Yes      | I was missing the div container class row in order for them to act as presumed                           |
 
 </details>
 
@@ -390,12 +391,12 @@ This universe was fully tested, I have used the table below to document any bugs
 
 To ensure a seamless experience across all devices, I followed a mobile-first approach during development. Starting with the smallest viewport, I designed and tested the layout on an iPhone to prioritize clarity and usability for adventurers on the go. I then progressively scaled the interface, checking responsiveness on an iPad, laptop, and full desktop display. This iterative testing helped refine layout behavior, image scaling, and content flow—ensuring the Gloomhaven Universe site remains immersive and accessible across screen sizes.
 
-| Device       | Screen Size Range | Testing Focus                          | Result         |
-|--------------|-------------------|----------------------------------------|----------------|
-| iPhone       | 375px             | Mobile-first layout, image scaling     | Passed         |
-| iPad         | 768px             | Grid wrapping, card alignment          | Passed         |
-| Laptop       | 1200px            | Content spacing, header behavior       | Passed         |
-| Desktop      | 1400px            | Full-width layout, visual balance      | Passed         |
+| Device  | Screen Size Range | Testing Focus                      | Result |
+| ------- | ----------------- | ---------------------------------- | ------ |
+| iPhone  | 375px             | Mobile-first layout, image scaling | Passed |
+| iPad    | 768px             | Grid wrapping, card alignment      | Passed |
+| Laptop  | 1200px            | Content spacing, header behavior   | Passed |
+| Desktop | 1400px            | Full-width layout, visual balance  | Passed |
 
 <!--Couple of paragraphs on what test where ran how, where, why. Also table array for checklist-->
 
@@ -413,9 +414,6 @@ I used [W3C Markup Validation Service](https://validator.w3.org/#validate_by_inp
 - Main page with sections
 
 ![Test 1 - index.html](docs/design/index.html-test1.png)
-
-
-
 
 <!--Brief description of validators used, what was tested i.e. page amount, how many errors. Also Pic example-->
 

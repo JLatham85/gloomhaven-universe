@@ -2,168 +2,175 @@
 
 /* CSS Variables Styles */
 :root {
-    --main-titles: "Anton", sans-serif;
-    --sub-titles: "Permanent Marker", sans-serif;
-    --main-body: "Oswald", sans-serif;
-    --dutch-white: #dbd3ad; 
-    --bistre: #28160a; 
-    --cafe-noir: #513b22; 
-    --captum-motuum: #513125; 
-    --raw-umber: #966f51; 
+  --main-titles: 'Anton', sans-serif;
+  --sub-titles: 'Permanent Marker', sans-serif;
+  --main-body: 'Oswald', sans-serif;
+  --dutch-white: #dbd3ad;
+  --bistre: #28160a;
+  --cafe-noir: #513b22;
+  --captum-motuum: #513125;
+  --raw-umber: #966f51;
 }
 
 /* Global Styles */
 
 body {
-    font-family: var(--main-body);
-    background-color: var(--dutch-white);
-    color: var(--bistre);
+  font-family: var(--main-body);
+  background-color: var(--dutch-white);
+  color: var(--bistre);
 }
 
 /* Page Section Style */
 
 .bg-section {
-    background-color: var(--bistre);
-    color: var(--dutch-white);
+  background-color: var(--bistre);
+  color: var(--dutch-white);
 }
 
 h2 {
-    font-family: var(--main-titles);
-    color: var(--dutch-white);
-    text-transform: uppercase;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
+  font-family: var(--main-titles);
+  color: var(--dutch-white);
+  text-transform: uppercase;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 
 /* Subtitle Style */
 h3 {
-    font-family: var(--sub-titles);
-    color: var(--bistre);
+  font-family: var(--sub-titles);
+  color: var(--bistre);
 }
 
 h3.dutch-white {
-    font-family: var(--sub-titles);
-    color: var(--dutch-white);
+  font-family: var(--sub-titles);
+  color: var(--dutch-white);
 }
 
 h5 {
-    font-family: var(--sub-titles);
-    color: var(--dutch-white);
+  font-family: var(--sub-titles);
+  color: var(--dutch-white);
 }
 
 /* Header Styles */
 
 /* This is to get header under navbar */
 #header {
-    padding-top: 70px;
-    background-color: var(--dutch-white);
+  padding-top: 70px;
+  background-color: var(--dutch-white);
 }
 
 .carousel-item > img {
-    width: 226px;
-    height: 226px;
+  width: 226px;
+  height: 226px;
 }
 
 h1.image-text {
-    font-family: var(--main-titles);
-    background: url('/gloomhaven-universe/assets/images/generic-bg-title.webp');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
+  font-family: var(--main-titles);
+  background: url('/gloomhaven-universe/assets/images/generic-bg-title.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
 }
 
 /* Card Styles */
 
 .card {
-    background-color: var(--bistre);
-    color: var(--dutch-white);    
-    border-radius: .5em;
-    margin: .5em;    
+  background-color: var(--bistre);
+  color: var(--dutch-white);
+  border-radius: 0.5em;
+  margin: 0.5em;
 }
 
 .card-body {
-    padding: .25em;
+  padding: 0.25em;
 }
 
 .card-title {
-    font-family: var(--main-body);    
+  font-family: var(--main-body);
 }
 
 /* Accordion Styles */
 .accordion {
-    --bs-accordion-btn-bg: var(--bistre);
-    --bs-accordion-active-bg: var(--captum-motuum);
-    --bs-accordion-btn-color: var(--dutch-white);
-    --bs-accordion-active-color: var(--dutch-white);      
-    --bs-accordion-bg: var(--captum-motuum);
-    --bs-accordion-color: var(--dutch-white);
-    --bs-accordion-btn-focus-box-shadow: none;      
+  --bs-accordion-btn-bg: var(--bistre);
+  --bs-accordion-active-bg: var(--captum-motuum);
+  --bs-accordion-btn-color: var(--dutch-white);
+  --bs-accordion-active-color: var(--dutch-white);
+  --bs-accordion-bg: var(--captum-motuum);
+  --bs-accordion-color: var(--dutch-white);
+  --bs-accordion-btn-focus-box-shadow: none;
 }
 
 .accordion-item {
-    border: none;
+  border: none;
 }
 
-.accordion-button:not(.collapsed){
-    box-shadow:none;
+.accordion-button:not(.collapsed) {
+  box-shadow: none;
 }
 
 .accordion-button::after {
-  filter: brightness(0) saturate(100%) invert(94%) sepia(7%) saturate(500%) hue-rotate(10deg);
+  filter: brightness(0) saturate(100%) invert(94%) sepia(7%) saturate(500%)
+    hue-rotate(10deg);
 }
 
 /* Table Styles */
 
 .table {
-    --bs-table-bg: var(--bistre);
-    --bs-table-striped-bg: var(--captum-motuum);
-    --bs-table-color: var(--dutch-white);
-    --bs-table-striped-color: var(--dutch-white);      
+  --bs-table-bg: var(--bistre);
+  --bs-table-striped-bg: var(--captum-motuum);
+  --bs-table-color: var(--dutch-white);
+  --bs-table-striped-color: var(--dutch-white);
 }
 
-tbody, td, tfoot, th, thead, tr {
-    border: none;
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+  border: none;
 }
 
 /* Style for Nav Tabs Booking and Feedback Section */
 
 .nav-link {
-    color: var(--captum-motuum);    
+  color: var(--captum-motuum);
 }
 
-.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
-    color: var(--dutch-white);
-    background-color: var(--captum-motuum);
-    border-color: var(--captum-motuum);
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+  color: var(--dutch-white);
+  background-color: var(--captum-motuum);
+  border-color: var(--captum-motuum);
 }
 
 /* Form Styles */
 
 .form-check .form-check-input {
-    float: none;
-    margin-left: -1.5em;
+  float: none;
+  margin-left: -1.5em;
 }
 
 /* Button Styles */
 
 .btn-btn-primary {
-    background-color: var(--captum-motuum);
-    border-color: var(--captum-motuum);
-    color: var(--dutch-white);
-    text-decoration: none;
-    padding: 12px 24px;
-    font-size: 1.2rem;
-    border-radius: 8px;
-    border: none;
+  background-color: var(--captum-motuum);
+  border-color: var(--captum-motuum);
+  color: var(--dutch-white);
+  text-decoration: none;
+  padding: 12px 24px;
+  font-size: 1.2rem;
+  border-radius: 8px;
+  border: none;
 }
 
 .btn-btn-primary:hover {
-    background-color: var(--raw-umber);
-    color: var(--dutch-white);
-    --bs-btn-hover-border-color: var(--raw-umber);
+  background-color: var(--raw-umber);
+  color: var(--dutch-white);
+  --bs-btn-hover-border-color: var(--raw-umber);
 }
 
 /* Gallery Styles */
@@ -180,26 +187,26 @@ tbody, td, tfoot, th, thead, tr {
   display: block;
   margin: 0;
   padding: 0;
-  break-inside: avoid;  
+  break-inside: avoid;
 }
 
 /* Modal Style */
 
 .modal-body {
-    background-color: var(--bistre);
-    color: var(--dutch-white);
+  background-color: var(--bistre);
+  color: var(--dutch-white);
 }
 
 .modal-header {
-    background-color: var(--bistre);
-    border: 0;
+  background-color: var(--bistre);
+  border: 0;
 }
 
 /* Navbar Styles */
 
 .logo {
-    width: 35px;
-    height: auto;
+  width: 35px;
+  height: auto;
 }
 
 #navigation {
@@ -209,46 +216,46 @@ tbody, td, tfoot, th, thead, tr {
 
 /* Footer Styles */
 
-#contact{
+#contact {
   background-color: var(--bistre);
   color: var(--dutch-white);
 }
 
 #contact a {
-  color:var(--dutch-white);
+  color: var(--dutch-white);
   text-decoration: none;
 }
 
 #contact a:hover {
-  color: var(--raw-umber); 
+  color: var(--raw-umber);
 }
 
 /* Media queries section */
 
 /* Medium Breakpoint (tablets, 768px and up) */
 @media (min-width: 768px) {
-    .gallery {
-  column-count: 3;
-    }
+  .gallery {
+    column-count: 3;
+  }
 }
 
 /* Large Breakpoint (laptops, 992px and up) */
 @media (min-width: 992px) {
-        .gallery {
-  column-count: 3;
-    }
+  .gallery {
+    column-count: 3;
+  }
 }
 
 /* XLarge Breakpoint (desktops, 1200px and up) */
 @media (min-width: 1200px) {
-        .gallery {
-  column-count: 4;
-    }
+  .gallery {
+    column-count: 4;
+  }
 }
 
 /* Large Breakpoint (lg desktop, 1400px and up) */
 @media (min-width: 1400px) {
-        .gallery {
-  column-count: 5;
-    }
+  .gallery {
+    column-count: 5;
+  }
 }
