@@ -461,9 +461,9 @@ I wanted to make sure individuals with diverse needs could access the website co
 
 ![Test 1](docs/design/wave-test1.png)
 
+- Test 2
 
-
-##### **Color Contrast** <!--Use Color contrast accessibility tester. How, what, where, why & result if errors-->
+![Test 2](docs/design/wave-test2.png)
 
 </details>
 
@@ -472,14 +472,22 @@ I wanted to make sure individuals with diverse needs could access the website co
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
+Gloomhaven Unoverse has been tested using [Lighthouse Testing](https://lighthouse-metrics.com/lighthouse) I have checked on both Google CHrome and Microsoft edge, this is testing:
+
+- Performance
+- Accessibility
+- Best Practices
+- SEO's
+
+- Google Chrome Test
+
+![Google Chroome Lighthouse](docs/design/chrome-lighthouse.png)
+
+- Microsoft Edge Test
+
+![Microsoft Edge Lighthouse](docs/design/edge-lighthouse.png)
+
 </details> <!--Add above here for Lighthouse Testing-->
-
-#### **Browser Testing** <!--Search top browsers and test website on all, give descriptions and examples-->
-
-<details> 
-<summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
-
-</details> <!--Add above here for Browser Testing-->
 
 </details>
 
@@ -489,6 +497,18 @@ I wanted to make sure individuals with diverse needs could access the website co
 
 <details open> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
+
+Gloomhaven Universe was officially deployed early on in the project, as I found inconsistencies between the local and Github.
+
+- Access my repository on GitHub and navigate to settings.
+
+- Click on PAGES on the left pane.
+
+- Then SAVE 
+
+- Website live address [GitHub live address](https://jlatham85.github.io/gloomhaven-universe)
+
+- Any future changes either by my peers suggestion or my own perfectionism can be changed and pushed to GitHub.
 
 </details> <!--Add above here for Deployment-->
 
@@ -503,13 +523,16 @@ I wanted to make sure individuals with diverse needs could access the website co
   - Simen Daehlin
 
 - Coding Assistance and inspiration:
-  - Example
+  - Co-Pilot (For understanding certain aspects)
+  - Many you tube videos to be able to understand certain concepts
 
 - Visual Content:
-  - Example
+  - Myself
+  - Wikipedia
+  - Jen Charlton (Frosthaven images)
 
 - Images:
-  - Example
+  - Co Pilot for my logo
 
 </details> <!--Add above here for Credits-->
 
