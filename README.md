@@ -10,6 +10,8 @@ With the content set to intrigue and explore and the features to teach and play.
 
 Visitors will have an option to join live sessions, provide feedback for site development, option to review games, book learning/ taster sessions. Playing session starting with the online version working upto to the physical boardgames.
 
+![Mock UP on All devices](docs/design/mock-up-devices.png)
+
 <!--Insert img with the different platforms and how the screen is displayed-->
 
 ## Contents
@@ -263,6 +265,8 @@ All the below where contrasted then selected for the different categories and wi
 
 #### **Images** <!--Insert any tools used to generate images and add which programme we used to render-->
 
+A lot of the images were taken new by myself. However wikipedia was used for the image under the section title. Co-pilot was used for the Icons on the cards.
+
 #### **Responsiveness**
 
 The completed website will be responsive to the Bootstrap breakpoints, which will for all screen sizes. This is to assist all viewers to have a seemless experience within the website.
@@ -293,13 +297,15 @@ The completed website will be responsive to the Bootstrap breakpoints, which wil
 
 - Footer
 
-- Events Page
+- Scrolling page for ease of navigation on the dominate devices i.e. smartphone and tablets.
 
 - 404 HTML Error Page
 
-- Booking table
+- Under maintenance page
 
-- Forms
+- Forms for booking and feedback to be able to continually improve.
+
+- Gallery section
 
 <!--Add additional when wireframe designs is done-->
 
@@ -309,9 +315,15 @@ The completed website will be responsive to the Bootstrap breakpoints, which wil
 
 [Back to Contents](#contents)
 
-<!--Add back to top link for design choices-->
-
 ## Future Improvements<!--Add targets once website complete-->
+
+- Add another section for Gloomhaven: Jaws of Lion
+
+- Add forum so the community can talk and potentially find people to play the games in bigger groups
+
+- FAQ's section for anyones queries that have been answered and common question asked about the group of games.
+
+- Create different bookings forms so when booking a slot the form pre-fills saving customer time and clicks.
 
 [Back to Contents](#contents)
 
@@ -342,6 +354,7 @@ The completed website will be responsive to the Bootstrap breakpoints, which wil
 - W3C HTML Validation
 - W3C CSS Validation
 - Copilot
+- Canva
 
 </details>
 
@@ -354,25 +367,37 @@ The completed website will be responsive to the Bootstrap breakpoints, which wil
 
 #### **Bugs** <!--Any bugs found status and if fixed in a table array-->
 
+This universe was fully tested, I have used the table below to document any bugs I came across whilst manually testing. I will summarise the results below the table.
+
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
-| Bug Found | Progress | Description of Bug | If resolved how |
-|-----------|----------|--------------------|-----------------|
-|Example 1  | Ex1      | Ex 1               | Example 1       | 
+| Bug Found | Resolved | How |
+|-----------|----------|-----|
+| Description boxes in feedback for were set to required now removed | Yes       | Removed the "required" component across all description boxes |
+| Navigation bar was not closing selecting a section | Yes | Added Javescript which helped the navbar recognise something had been selected in order for it to close. |
+| Background image to main title wasn't loading | Yes | The filepath was incorrect needed to add full filepath including gloomhaven-universe |
+| Changed layout from seperate pages to 1 scroll page | Yes | Userinter face changed as I felt there were too many clicks. Not very user freindly |
+| Card heights were fluctuating | Yes | Added d-flex to the component |
+| On bigger screen sizes cards were not wrapping and leaving blank columns | Yes | I was missing the div container class row in order for them to act as presumed |
 
 </details>
 
-#### **Responsiness Tests**
+#### **Responsivness Tests**
 
 <details> 
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
-<!--Couple of paragraphs on what test where ran how, where, why. Also table array for checklist-->
+To ensure a seamless experience across all devices, I followed a mobile-first approach during development. Starting with the smallest viewport, I designed and tested the layout on an iPhone to prioritize clarity and usability for adventurers on the go. I then progressively scaled the interface, checking responsiveness on an iPad, laptop, and full desktop display. This iterative testing helped refine layout behavior, image scaling, and content flow—ensuring the Gloomhaven Universe site remains immersive and accessible across screen sizes.
 
-| Screen Size Class | Screen Device | Navigation | Element Alignments | Content Placement | Functionality | Bugs (if any explain how fixed) |
-|-------------------|---------------|------------|--------------------|-------------------|--------------|----------------------------------|
-|Example1           | Ex1           | Ex 1       | Example1           |Example1           | Example1      | Example1                         |
+| Device       | Screen Size Range | Testing Focus                          | Result         |
+|--------------|-------------------|----------------------------------------|----------------|
+| iPhone       | 375px             | Mobile-first layout, image scaling     | Passed         |
+| iPad         | 768px             | Grid wrapping, card alignment          | Passed         |
+| Laptop       | 1200px            | Content spacing, header behavior       | Passed         |
+| Desktop      | 1400px            | Full-width layout, visual balance      | Passed         |
+
+<!--Couple of paragraphs on what test where ran how, where, why. Also table array for checklist-->
 
 </details>
 
@@ -382,6 +407,10 @@ The completed website will be responsive to the Bootstrap breakpoints, which wil
 <summary><i>Expand Me/ Collapse Me - I'll let you decide</i></summary>
 
 ##### HTML:
+
+I used [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input). I have tested index.html, success.html and 404.html.
+
+
 <!--Brief description of validators used, what was tested i.e. page amount, how many errors. Also Pic example-->
 
 ##### CSS:
