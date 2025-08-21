@@ -70,8 +70,8 @@ h1.image-text {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    -webkit-background-clip: text; /* Fixes potential issue with text not showing */
-    background-clip: text; /* Works with the websites not covered in the above */
+    -webkit-background-clip: text;
+    background-clip: text;
     color: transparent;
 }
 

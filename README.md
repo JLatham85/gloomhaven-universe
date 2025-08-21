@@ -297,9 +297,11 @@ The completed website will be responsive to the Bootstrap breakpoints, which wil
 
 - 404 HTML Error Page
 
-- Under Construction Page
+- Booking table
 
-- **Space for additional remove if not needed**<!--Add additional when wireframe designs is done-->
+- Forms
+
+<!--Add additional when wireframe designs is done-->
 
 </details>
 
@@ -320,8 +322,9 @@ The completed website will be responsive to the Bootstrap breakpoints, which wil
 
 #### **Languages**
 
-- HTML5 <!--Link to description-->
-- CSS <!--Link to description-->
+- HTML5
+- CSS
+- JS
 
 #### **Libraries and Framework** <!--List below is genric add/ remove where necessary-->
 
