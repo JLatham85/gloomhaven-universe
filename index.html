@@ -1634,7 +1634,7 @@
               <div class="col-12">
                 <form action="success.html" method="get">
                   <div class="row">
-                    <div class="col-12 col-md-6 mb-2">
+                    <div class="col-12 col-md-6 mb-4">
                       <label for="which-game-intro" class="form-label">
                         Which Game
                       </label>
@@ -1653,7 +1653,7 @@
                         <option value="tournament">Gloomhaven Online</option>
                       </select>
                     </div>
-                    <div class="col-12 col-md-6 mb-2">
+                    <div class="col-12 col-md-6 mb-4">
                       <label for="which-day-intro" class="form-label">
                         Which Day
                       </label>
@@ -1672,30 +1672,39 @@
                         <option value="Saturday">Saturday</option>
                       </select>
                     </div>
-                    <div class="row">
-                      <div class="col-6 form-check mt-2 mb-2">
-                        <input
-                          class="form-check-input"
-                          type="checkbox"
-                          value=""
-                          id="am-intro"
-                        />
-                        <label class="am-intro-label" for="am-intro">
-                          AM Time Slot
-                        </label>
-                      </div>
-                      <div class="col-6 form-check mt-2 mb-2">
-                        <input
-                          class="form-check-input"
-                          type="checkbox"
-                          value=""
-                          id="pm-intro"
-                        />
-                        <label class="form-check-label" for="pm-intro">
-                          PM Time Slot
-                        </label>
-                      </div>
+                    <div class="col-12 mb-3">
+                      <fieldset>
+                        <legend class="form-label">Preferred Time Slot</legend>
+                        <div class="row">
+                          <div class="col-6 form-check">
+                            <input
+                              class="form-check-input"
+                              type="radio"
+                              name="intro-time-slot"
+                              value="am"
+                              id="am-intro"
+                              required
+                            />
+                            <label class="form-check-label" for="am-intro">
+                              AM Time Slot
+                            </label>
+                          </div>
+                          <div class="col-6 form-check">
+                            <input
+                              class="form-check-input"
+                              type="radio"
+                              name="intro-time-slot"
+                              value="pm"
+                              id="pm-intro"
+                            />
+                            <label class="form-check-label" for="pm-intro">
+                              PM Time Slot
+                            </label>
+                          </div>
+                        </div>
+                      </fieldset>
                     </div>
+
                     <div class="col-12 col-md-6 mb-4">
                       <label for="name-intro" class="form-label"
                         >Full Name</label
@@ -1788,29 +1797,39 @@
                         <option value="Saturday">Saturday</option>
                       </select>
                     </div>
-                    <div class="col-6 form-check mt-2 mb-2">
-                      <input
-                        class="form-check-input"
-                        type="checkbox"
-                        value=""
-                        id="am-meetup"
-                      />
-                      <label class="am-intro-meetup" for="am-meetup">
-                        AM Time Slot
-                      </label>
+                    <div class="col-12 mb-3">
+                      <fieldset>
+                        <legend class="form-label">Preferred Time Slot</legend>
+                        <div class="row">
+                          <div class="col-6 form-check">
+                            <input
+                              class="form-check-input"
+                              type="radio"
+                              name="time-slot"
+                              value="am"
+                              id="am-meetup"
+                              required
+                            />
+                            <label class="form-check-label" for="am-meetup">
+                              AM Time Slot
+                            </label>
+                          </div>
+                          <div class="col-6 form-check">
+                            <input
+                              class="form-check-input"
+                              type="radio"
+                              name="time-slot"
+                              value="pm"
+                              id="pm-meetup"
+                            />
+                            <label class="form-check-label" for="pm-meetup">
+                              PM Time Slot
+                            </label>
+                          </div>
+                        </div>
+                      </fieldset>
                     </div>
-                    <div class="form-check">
-                      <input
-                        class="form-check-input"
-                        type="checkbox"
-                        value=""
-                        id="pm-meetup"
-                      />
-                      <label class="col-6 form-check mt-2 mb-2" for="pm-meetup">
-                        PM Time Slot
-                      </label>
-                    </div>
-                    <div class="col-12 mb-4">
+                    <div class="col-12 col-md-6 mb-4">
                       <label for="name-meetup" class="form-label"
                         >Full Name</label
                       >
@@ -1822,7 +1841,7 @@
                         required
                       />
                     </div>
-                    <div class="col-12 mb-4">
+                    <div class="col-12 col-md-6 mb-4">
                       <label for="contact-no-meetup" class="form-label">
                         Contact No
                       </label>
@@ -1976,7 +1995,7 @@
                       </div>
                     </div>
                     <div class="col-12 col-md-6">
-                      <fieldset class="col-12 col-md-6 mb-4">
+                      <fieldset class="mb-4">
                         <legend class="form-label">
                           Were there parts of the website you didn't find
                           helpful?
@@ -1985,8 +2004,8 @@
                           <div class="col-5 form-check ms-3">
                             <input
                               class="form-check-input"
-                              type="checkbox"
-                              value=""
+                              type="radio"
+                              value="yes"
                               id="radio-button-yes-help"
                               name="helpful"
                             />
@@ -2000,8 +2019,8 @@
                           <div class="col-5 form-check">
                             <input
                               class="form-check-input"
-                              type="checkbox"
-                              value=""
+                              type="radio"
+                              value="no"
                               id="radio-button-no-help"
                               name="helpful"
                             />
@@ -2013,8 +2032,13 @@
                             </label>
                           </div>
                         </div>
-
                         <div class="col-12 mb-2 mt-3">
+                          <label
+                            for="helpdescription"
+                            class="form-label visually-hidden"
+                          >
+                            Describe your experience
+                          </label>
                           <textarea
                             class="form-control"
                             rows="6"
@@ -2026,57 +2050,64 @@
                       </fieldset>
                     </div>
                     <div class="col-12 col-md-6">
-                      <label for="faulty-links" class="form-label">
-                        Did you come across any faulty links?
-                      </label>
-                      <div class="row">
-                        <div class="col-5 form-check ms-3">
-                          <input
-                            class="form-check-input"
-                            type="checkbox"
-                            value=""
-                            id="radio-button-yes-links"
-                          />
-                          <label
-                            class="radio-button-yes-label-links"
-                            for="radio-button-yes-links"
-                          >
-                            Yes
-                          </label>
+                      <fieldset class="mb-3">
+                        <legend class="form-label">
+                          Did you come across any faulty links?
+                        </legend>
+                        <div class="row">
+                          <div class="col-5 form-check ms-3">
+                            <input
+                              class="form-check-input"
+                              type="radio"
+                              name="faulty-links"
+                              value="yes"
+                              id="radio-button-yes-links"
+                            />
+                            <label
+                              class="form-check-label"
+                              for="radio-button-yes-links"
+                            >
+                              Yes
+                            </label>
+                          </div>
+                          <div class="col-5 form-check">
+                            <input
+                              class="form-check-input"
+                              type="radio"
+                              name="faulty-links"
+                              value="no"
+                              id="radio-button-no-links"
+                            />
+                            <label
+                              class="form-check-label"
+                              for="radio-button-no-links"
+                            >
+                              No
+                            </label>
+                          </div>
                         </div>
-                        <div class="col-5 form-check">
-                          <input
-                            class="form-check-input"
-                            type="checkbox"
-                            value=""
-                            id="radio-button-no-links"
-                          />
+                      </fieldset>
+
+                      <div class="row mt-3">
+                        <div class="col-12">
                           <label
-                            class="radio-button-no-label-links"
-                            for="radio-button-no-links"
+                            for="linksdescription"
+                            class="form-label visually-hidden"
                           >
-                            No
+                            Describe your experience with website links
                           </label>
+                          <textarea
+                            class="form-control"
+                            rows="6"
+                            id="linksdescription"
+                            name="linksdescription"
+                            placeholder="If no, please provide a brief description of your experience"
+                          ></textarea>
                         </div>
-                      </div>
-                      <div class="col-12 mb-2 mt-3">
-                        <label
-                          for="linksdescription"
-                          class="form-label visually-hidden"
-                        >
-                          Describe your experience with website links
-                        </label>
-                        <textarea
-                          class="form-control"
-                          rows="6"
-                          id="linksdescription"
-                          name="linksdescription"
-                          placeholder="If no, please provide a brief description of your experience"
-                        ></textarea>
                       </div>
                     </div>
                     <div class="col-12 col-md-6">
-                      <fieldset class="col-12 col-md-6 mb-4">
+                      <fieldset class="mb-4">
                         <legend class="form-label">
                           Were there any features you did not like?
                         </legend>
@@ -2084,7 +2115,7 @@
                           <div class="col-5 form-check ms-3">
                             <input
                               class="form-check-input"
-                              type="checkbox"
+                              type="radio"
                               value="yes"
                               id="radio-button-yes-features"
                               name="features"
@@ -2099,7 +2130,7 @@
                           <div class="col-5 form-check">
                             <input
                               class="form-check-input"
-                              type="checkbox"
+                              type="radio"
                               value="no"
                               id="radio-button-no-features"
                               name="features"
@@ -2131,7 +2162,7 @@
                       </fieldset>
                     </div>
                     <div class="col-12 col-md-6">
-                      <fieldset class="col-12 col-md-6 mb-4">
+                      <fieldset class="mb-4">
                         <legend class="form-label">
                           Were the text elements clear and readable?
                         </legend>
@@ -2139,7 +2170,7 @@
                           <div class="col-5 form-check ms-3">
                             <input
                               class="form-check-input"
-                              type="checkbox"
+                              type="radio"
                               value="yes"
                               id="radio-button-yes-elements"
                               name="textclarity"
@@ -2154,7 +2185,7 @@
                           <div class="col-5 form-check">
                             <input
                               class="form-check-input"
-                              type="checkbox"
+                              type="radio"
                               value="no"
                               id="radio-button-no-elements"
                               name="textclarity"
@@ -2186,7 +2217,7 @@
                       </fieldset>
                     </div>
                     <div class="col-12 col-md-6">
-                      <fieldset class="col-12 col-md-6 mb-4">
+                      <fieldset class="mb-4">
                         <legend class="form-label">
                           Are there any accessibility problems (e.g. contrast,
                           font size)?
@@ -2195,7 +2226,7 @@
                           <div class="col-5 form-check ms-3">
                             <input
                               class="form-check-input"
-                              type="checkbox"
+                              type="radio"
                               value="yes"
                               id="radio-button-yes-accessibility"
                               name="accessibility"
@@ -2210,7 +2241,7 @@
                           <div class="col-5 form-check">
                             <input
                               class="form-check-input"
-                              type="checkbox"
+                              type="radio"
                               value="no"
                               id="radio-button-no-accessibility"
                               name="accessibility"
@@ -2246,7 +2277,12 @@
                         How would you rate the overall website (content,
                         impressions, etc.)?
                       </label>
-                      <select class="form-select" aria-label="Rating" required>
+                      <select
+                        id="overall-website"
+                        class="form-select"
+                        aria-label="Rating"
+                        required
+                      >
                         <option value="" selected disabled>
                           Select Rating 1 = Poor 5 = Awesome
                         </option>
