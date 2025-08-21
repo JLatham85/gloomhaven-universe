@@ -411,9 +411,10 @@ To ensure a seamless experience across all devices, I followed a mobile-first ap
 
 I used [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input). I have tested index.html, success.html and 404.html.
 
-- Main page with sections
+- Main page with sections (Prettier kept adding trailing slashes back, so concentrated time on actual errors) 61 Errors and warning to correct. 
 
 ![Test 1 - index.html](docs/design/index.html-test1.png)
+
 
 <!--Brief description of validators used, what was tested i.e. page amount, how many errors. Also Pic example-->
 
